@@ -1,0 +1,782 @@
+
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>List of Bangladeshi people - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"4bca4717-6df3-4296-b56e-e8a0c18cd434","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"List_of_Bangladeshi_people","wgTitle":"List of Bangladeshi people","wgCurRevisionId":1038942536,"wgRevisionId":1038942536,"wgArticleId":621567,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Short description is different from Wikidata","Dynamic lists","Lists of Bangladeshi people"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"List_of_Bangladeshi_people","wgRelevantArticleId":621567,
+"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":-1}}},"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsFlags":10,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":!0,"wgGENewcomerTasksGuidanceEnabled":!0,"wgGEAskQuestionEnabled":!1,"wgGELinkRecommendationsFrontendEnabled":!1,"wgWikibaseItemId":"Q11790816"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready",
+"user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.37.0-wmf.18"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="format-detection" content="telephone=no"/>
+<meta property="og:title" content="List of Bangladeshi people - Wikipedia"/>
+<meta property="og:type" content="website"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/List_of_Bangladeshi_people"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=List_of_Bangladeshi_people&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=List_of_Bangladeshi_people&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/List_of_Bangladeshi_people"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-List_of_Bangladeshi_people rootpage-List_of_Bangladeshi_people skin-vector action-view skin-vector-legacy"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" >List of Bangladeshi people</h1>
+	<div id="bodyContent" class="vector-body">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		<div id="contentSub2"></div>
+
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" class="mw-body-content mw-content-ltr" lang="en" dir="ltr"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Wikipedia list article</div>
+<style data-mw-deduplicate="TemplateStyles:r1033289096">.mw-parser-output .hatnote{font-style:italic}.mw-parser-output div.hatnote{padding-left:1.6em;margin-bottom:0.5em}.mw-parser-output .hatnote i{font-style:normal}.mw-parser-output .hatnote+link+.hatnote{margin-top:-0.5em}</style><div role="note" class="hatnote navigation-not-searchable plainlinks">This is a <a href="/wiki/Wikipedia:WikiProject_Lists#Incomplete_lists" title="Wikipedia:WikiProject Lists">dynamic list</a> and may never be able to satisfy particular standards for completeness. You can help by <a class="external text" href="https://en.wikipedia.org/w/index.php?title=List_of_Bangladeshi_people&amp;action=edit">adding missing items</a> with <a href="/wiki/Wikipedia:Reliable_sources" title="Wikipedia:Reliable sources">reliable sources</a>.</div>
+<p>Listed below are notable people who are either citizens of <a href="/wiki/Bangladesh" title="Bangladesh">Bangladesh</a>, born in the region of what is now Bangladesh, or of <a href="/wiki/Bangladeshi" class="mw-redirect" title="Bangladeshi">Bangladeshi</a> origin living abroad. For brevity, people who fall into more than one category are listed in only one of them. For further information, see <a href="/wiki/Bangladeshi_people" class="mw-redirect" title="Bangladeshi people">Bangladeshi people</a>.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Principals_of_Bengal&#39;s_independence_wars_and_movements"><span class="tocnumber">1</span> <span class="toctext">Principals of Bengal's independence wars and movements</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#British_colonial_period"><span class="tocnumber">1.1</span> <span class="toctext">British colonial period</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Martyrs_of_the_Bengali_Language_Movement_1952"><span class="tocnumber">1.2</span> <span class="toctext">Martyrs of the Bengali Language Movement 1952</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Bangladesh_War_of_Independence,_1971"><span class="tocnumber">1.3</span> <span class="toctext">Bangladesh War of Independence, 1971</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Scientists,_engineers,_science_educators_and_any_subject_teachers"><span class="tocnumber">2</span> <span class="toctext">Scientists, engineers, science educators and any subject teachers</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Educationist"><span class="tocnumber">3</span> <span class="toctext">Educationist</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Arts,_culture,_and_literature"><span class="tocnumber">4</span> <span class="toctext">Arts, culture, and literature</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Social_reformers_and_leaders"><span class="tocnumber">5</span> <span class="toctext">Social reformers and leaders</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Music,_film_and_television"><span class="tocnumber">6</span> <span class="toctext">Music, film and television</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Economists"><span class="tocnumber">7</span> <span class="toctext">Economists</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Entrepreneurs"><span class="tocnumber">8</span> <span class="toctext">Entrepreneurs</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#Media_and_journalism"><span class="tocnumber">9</span> <span class="toctext">Media and journalism</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#Political_figures"><span class="tocnumber">10</span> <span class="toctext">Political figures</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#Photographers"><span class="tocnumber">11</span> <span class="toctext">Photographers</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#Heads_of_government"><span class="tocnumber">12</span> <span class="toctext">Heads of government</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#Intellectuals"><span class="tocnumber">13</span> <span class="toctext">Intellectuals</span></a></li>
+<li class="toclevel-1 tocsection-17"><a href="#Government_officials_and_diplomats"><span class="tocnumber">14</span> <span class="toctext">Government officials and diplomats</span></a></li>
+<li class="toclevel-1 tocsection-18"><a href="#Noted_diplomats/heads_of_major_organizations"><span class="tocnumber">15</span> <span class="toctext">Noted diplomats/heads of major organizations</span></a></li>
+<li class="toclevel-1 tocsection-19"><a href="#Religious_personalities"><span class="tocnumber">16</span> <span class="toctext">Religious personalities</span></a></li>
+<li class="toclevel-1 tocsection-20"><a href="#Sportspeople"><span class="tocnumber">17</span> <span class="toctext">Sportspeople</span></a>
+<ul>
+<li class="toclevel-2 tocsection-21"><a href="#Cricket"><span class="tocnumber">17.1</span> <span class="toctext">Cricket</span></a></li>
+<li class="toclevel-2 tocsection-22"><a href="#Archery"><span class="tocnumber">17.2</span> <span class="toctext">Archery</span></a></li>
+<li class="toclevel-2 tocsection-23"><a href="#Chess"><span class="tocnumber">17.3</span> <span class="toctext">Chess</span></a></li>
+<li class="toclevel-2 tocsection-24"><a href="#Football"><span class="tocnumber">17.4</span> <span class="toctext">Football</span></a></li>
+<li class="toclevel-2 tocsection-25"><a href="#Golf"><span class="tocnumber">17.5</span> <span class="toctext">Golf</span></a></li>
+<li class="toclevel-2 tocsection-26"><a href="#Gymnastics"><span class="tocnumber">17.6</span> <span class="toctext">Gymnastics</span></a></li>
+<li class="toclevel-2 tocsection-27"><a href="#Hockey"><span class="tocnumber">17.7</span> <span class="toctext">Hockey</span></a></li>
+<li class="toclevel-2 tocsection-28"><a href="#Kabaddi"><span class="tocnumber">17.8</span> <span class="toctext">Kabaddi</span></a></li>
+<li class="toclevel-2 tocsection-29"><a href="#Martial_arts"><span class="tocnumber">17.9</span> <span class="toctext">Martial arts</span></a></li>
+<li class="toclevel-2 tocsection-30"><a href="#Mountaineering"><span class="tocnumber">17.10</span> <span class="toctext">Mountaineering</span></a></li>
+<li class="toclevel-2 tocsection-31"><a href="#Shooter"><span class="tocnumber">17.11</span> <span class="toctext">Shooter</span></a></li>
+<li class="toclevel-2 tocsection-32"><a href="#Sprinter"><span class="tocnumber">17.12</span> <span class="toctext">Sprinter</span></a></li>
+<li class="toclevel-2 tocsection-33"><a href="#Swimming"><span class="tocnumber">17.13</span> <span class="toctext">Swimming</span></a></li>
+<li class="toclevel-2 tocsection-34"><a href="#Table_tennis"><span class="tocnumber">17.14</span> <span class="toctext">Table tennis</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-35"><a href="#See_also"><span class="tocnumber">18</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-36"><a href="#References"><span class="tocnumber">19</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span id="Principals_of_Bengal.27s_independence_wars_and_movements"></span><span class="mw-headline" id="Principals_of_Bengal's_independence_wars_and_movements"><span class="anchor" id="Principlals_of_Bengals_Independence_Wars_and_Movements"></span>Principals of Bengal's independence wars and movements</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_Bangladeshi_people&amp;action=edit&amp;section=1" title="Edit section: Principals of Bengal&#039;s independence wars and movements">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="British_colonial_period">British colonial period</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_Bangladeshi_people&amp;action=edit&amp;section=2" title="Edit section: British colonial period">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Nawab_Salimullah" class="mw-redirect" title="Nawab Salimullah">Nawab Salimullah</a>, an active citizen in British Raj, contributed to civilized India</li>
+<li><a href="/wiki/Deshbandhu_Chittaranjan_Das" class="mw-redirect" title="Deshbandhu Chittaranjan Das">Deshbandhu Chittaranjan Das</a>, one of the great leaders in anti-British movement, he worked a lot for communal Harmony</li>
+<li>Sir <a href="/wiki/Abdul_Halim_Ghaznavi" title="Abdul Halim Ghaznavi">Abdul Halim Ghaznavi</a>, politician</li>
+<li><a href="/wiki/Khabeeruddin_Ahmed" title="Khabeeruddin Ahmed">Khabeeruddin Ahmed</a>, politician</li>
+<li><a href="/wiki/Purna_Das" class="mw-redirect" title="Purna Das">Purna Das</a>, popular anti British rebellion, went to jail such a young age. Kazi Nazrul Islam wrote a poem "Purna Avinandan" for his patriotism.</li>
+<li><a href="/wiki/Mohammad_Ali_Bogra" title="Mohammad Ali Bogra">Mohammad Ali Bogra</a>, Prime Minister of <a href="/wiki/Pakistan" title="Pakistan">Pakistan</a> (1953–1955)</li>
+<li><a href="/wiki/Nawaab_Syed_Shamsul_Huda" class="mw-redirect" title="Nawaab Syed Shamsul Huda">Nawaab Syed Shamsul Huda</a>, first Indian Muslim president of the reformed <a href="/wiki/Order_of_British_India" title="Order of British India">legislative council</a> of the undivided Bengal in 1921</li>
+<li><a href="/wiki/A._K._Fazlul_Huq" title="A. K. Fazlul Huq">A. K. Fazlul Huq</a>, Prime Minister of <a href="/wiki/Bengal_Presidency" title="Bengal Presidency">Bengal</a> (1937–1943), Chief Minister of <a href="/wiki/East_Bengal" title="East Bengal">East Bengal</a> (1954–1955) and Governor of <a href="/wiki/East_Pakistan" title="East Pakistan">East Pakistan</a> (1956)</li>
+<li><a href="/wiki/Nawab_Abdul_Latif" title="Nawab Abdul Latif">Nawab Abdul Latif</a>, educator and social worker</li>
+<li><a href="/wiki/Khwaja_Salimullah" title="Khwaja Salimullah">Khwaja Salimullah</a>, first to propose the creation of the <a href="/wiki/All_India_Muslim_League" class="mw-redirect" title="All India Muslim League">All India Muslim League</a> (AIML), later known as the Muslim League</li>
+<li><a href="/wiki/Surya_Sen" title="Surya Sen">Surya Sen</a>, revolutionary and leader of <a href="/wiki/Indian_independence_movement" title="Indian independence movement">Indian independence movement</a>, known for leading <a href="/wiki/Chittagong_armoury_raid" title="Chittagong armoury raid">Chittagong armoury raid</a></li>
+<li><a href="/wiki/Haji_Shariatullah" title="Haji Shariatullah">Haji Shariatullah</a>, founder of the <a href="/wiki/Faraizi_Movement" class="mw-redirect" title="Faraizi Movement">Faraizi Movement</a></li>
+<li><a href="/wiki/Huseyn_Shaheed_Suhrawardy" title="Huseyn Shaheed Suhrawardy">Huseyn Shaheed Suhrawardy</a>, last Prime Minister of <a href="/wiki/Bengal_Presidency" title="Bengal Presidency">Bengal</a> (1946–1947), later Prime Minister of <a href="/wiki/Pakistan" title="Pakistan">Pakistan</a> (1956–1957)</li>
+<li><a href="/wiki/Pritilata_Waddedar" title="Pritilata Waddedar">Pritilata Waddedar</a>, activist of the <a href="/wiki/Indian_independence_movement" title="Indian independence movement">Indian independence movement</a></li>
+<li><a href="/wiki/Hem_Chandra_Chowdhury" title="Hem Chandra Chowdhury">Hem Chandra Chowdhury</a>, a Zamindar in what is today part of Tangail District<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup></li></ul>
+<h3><span class="mw-headline" id="Martyrs_of_the_Bengali_Language_Movement_1952">Martyrs of the Bengali Language Movement 1952</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_Bangladeshi_people&amp;action=edit&amp;section=3" title="Edit section: Martyrs of the Bengali Language Movement 1952">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Rafiq_Uddin_Ahmed" title="Rafiq Uddin Ahmed">Rafiq Uddin Ahmed</a></li>
+<li><a href="/wiki/Abul_Barkat" title="Abul Barkat">Abul Barkat</a></li>
+<li><a href="/wiki/Abdul_Jabbar_(activist)" title="Abdul Jabbar (activist)">Abdul Jabbar</a></li>
+<li><a href="/wiki/Abdus_Salam_(Bengali_Language_Movement_demonstrator)" class="mw-redirect" title="Abdus Salam (Bengali Language Movement demonstrator)">Abdus Salam</a></li>
+<li><a href="/wiki/Shafiur_Rahman" title="Shafiur Rahman">Shafiur Rahman</a></li></ul>
+<h3><span id="Bangladesh_War_of_Independence.2C_1971"></span><span class="mw-headline" id="Bangladesh_War_of_Independence,_1971">Bangladesh War of Independence, 1971</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_Bangladeshi_people&amp;action=edit&amp;section=4" title="Edit section: Bangladesh War of Independence, 1971">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Sheikh_Mujibur_Rahman" title="Sheikh Mujibur Rahman">Sheikh Mujibur Rahman</a>, President of Bangladesh provisional Government</li>
+<li><a href="/wiki/Tajuddin_Ahmed" class="mw-redirect" title="Tajuddin Ahmed">Tajuddin Ahmed</a>, first Prime Minister of Bangladesh, War of Independence</li>
+<li><a href="/wiki/Abdul_Hamid_Khan_Bhashani" title="Abdul Hamid Khan Bhashani">Abdul Hamid Khan Bhashani</a></li>
+<li>Major <a href="/wiki/Nazmul_Huq" title="Nazmul Huq">Nazmul Huq</a>, Commander Sector 7 (till August 1971)</li>
+<li>Squadron Leader <a href="/wiki/M._Hamidullah_Khan" class="mw-redirect" title="M. Hamidullah Khan">M. Hamidullah Khan</a>, <a href="/wiki/Bangladesh_Government" class="mw-redirect" title="Bangladesh Government">Bangladesh Government</a> Chief Representative - Chakulia (Bihar) Guerilla Trng. Camp, BDF Sub-sector commander - Mankarchar (Sector 11), BDF Commander - Sector 11 (November 2–February 14, 1972)</li>
+<li>Major <a href="/wiki/Abul_Manzur" class="mw-redirect" title="Abul Manzur">M.A. Manzur</a>, Commander Sector 8</li>
+<li>Major <a href="/wiki/Khaled_Musharraf" class="mw-redirect" title="Khaled Musharraf">Khaled Musharraf</a>, BDF Commander Sector 2, Commander K-Force</li>
+<li><a href="/wiki/Colonel-in-Chief" class="mw-redirect" title="Colonel-in-Chief">Colonel-in-Chief</a> <a href="/wiki/Muhammad_Ataul_Ghani_Osmany" class="mw-redirect" title="Muhammad Ataul Ghani Osmany">Muhammad Ataul Ghani Osmany</a>, Commander-in-Chief, <a href="/wiki/Bangladesh_Forces" class="mw-redirect" title="Bangladesh Forces">Bangladesh Forces</a>, War of Independence, 1971. (Later promoted to General)</li>
+<li>Major <a href="/wiki/Ziaur_Rahman" title="Ziaur Rahman">Ziaur Rahman</a>, Declarer War of Independence of Bangladesh on March 27, 1971. <a href="/wiki/Bangladesh_Forces" class="mw-redirect" title="Bangladesh Forces">BDF</a> Sector Commander Sector 1(April~May) and Central Sector - Sector 11 (June – October 10, 1971) and Z-Force Commander</li>
+<li>Major <a href="/wiki/K.M_Shafiullah" class="mw-redirect" title="K.M Shafiullah">K.M Shafiullah</a>, S Force Commander</li>
+<li>Major <a href="/wiki/Abu_Taher" title="Abu Taher">Abu Taher</a>, sub-sector commander - Mahendraganj (HQ 11), Interim Commander Sector 11 (October 10–November 2, 1971)</li></ul>
+<h2><span id="Scientists.2C_engineers.2C_science_educators_and_any_subject_teachers"></span><span class="mw-headline" id="Scientists,_engineers,_science_educators_and_any_subject_teachers">Scientists, engineers, science educators and any subject teachers</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_Bangladeshi_people&amp;action=edit&amp;section=5" title="Edit section: Scientists, engineers, science educators and any subject teachers">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Nasima_Akhter" title="Nasima Akhter">Nasima Akhter</a> (born 1970), nuclear medicine researcher</li>
+<li><a href="/wiki/Arun_Kumar_Basak" title="Arun Kumar Basak">Arun Kumar Basak</a>, scientist and Professor Emeritus of <a href="/wiki/University_of_Rajshahi" title="University of Rajshahi">University of Rajshahi</a></li>
+<li><a href="/wiki/Abdullah-Al-Muti" title="Abdullah-Al-Muti">Abdullah Al Muti</a>, scientist and science writer</li>
+<li><a href="/wiki/Maqsudul_Alam" title="Maqsudul Alam">Maqsudul Alam</a>, scientist and professor, achieved three milestones in genomics - sequencing the genomes of papaya, rubber plants and jute at <a href="/wiki/University_of_Hawaii" class="mw-redirect" title="University of Hawaii">University of Hawaii</a></li>
+<li><a href="/wiki/Mir_Masoom_Ali" title="Mir Masoom Ali">Mir Masoom Ali</a>, emeritus professor of statistics</li>
+<li><a href="/wiki/Amit_Chakma" title="Amit Chakma">Amit Chakma</a>, tenth president of the <a href="/wiki/University_of_Western_Ontario" title="University of Western Ontario">University of Western Ontario</a></li>
+<li><a href="/wiki/Abed_Chaudhury" title="Abed Chaudhury">Abed Chaudhury</a>, scientist living in Australia, born in Moulavibazar; renowned for getting the Bangladeshi rice variety kasalath recognized by IRRI; the variety was first claimed to be of Indian origin<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup></li>
+<li><a href="/wiki/SM_Faruque" class="mw-redirect" title="SM Faruque">SM Faruque</a>, microbiologist and scientist, researcher on <a href="/wiki/Vibrio_cholerae" title="Vibrio cholerae">Vibrio cholerae</a> which causes <a href="/wiki/Cholera" title="Cholera">Cholera</a></li>
+<li><a href="/wiki/Azizul_Haque_(police_officer)" class="mw-redirect" title="Azizul Haque (police officer)">Azizul Haque</a>, pioneered the mathematical formula for <a href="/wiki/Henry_Classification_System" title="Henry Classification System">Henry Classification System</a> of <a href="/wiki/Fingerprinting" class="mw-redirect" title="Fingerprinting">fingerprinting</a></li>
+<li><a href="/wiki/Tanzima_Hashem" title="Tanzima Hashem">Tanzima Hashem</a>, academic, <a href="/wiki/Elsevier_Foundation_Award" title="Elsevier Foundation Award">Elsevier Foundation Award</a> winner in 2017</li>
+<li><a href="/wiki/Khandkar_Manwar_Hossain" title="Khandkar Manwar Hossain">Khandkar Manwar Hossain</a>, statistician and founder of the Department of Statistics in <a href="/wiki/Rajshahi_University" class="mw-redirect" title="Rajshahi University">Rajshahi University</a></li>
+<li><a href="/wiki/Saleemul_Huq" title="Saleemul Huq">Saleemul Huq</a>, awarded the <a href="/wiki/Burtoni_Award" title="Burtoni Award">Burtoni Award</a> for contributing to climate change adaptation</li>
+<li><a href="/wiki/Fazle_Hussain" title="Fazle Hussain">Fazle Hussain</a>, professor of <a href="/wiki/Mechanical_Engineering" class="mw-redirect" title="Mechanical Engineering">Mechanical Engineering</a> at <a href="/wiki/Texas_Tech_University" title="Texas Tech University">Texas Tech University</a>. Elected Fellow of National Academy of Engineering.</li>
+<li><a href="/wiki/M._Zahid_Hasan" title="M. Zahid Hasan">M. Zahid Hasan</a>, the Eugene Higgins endowed chair professor of <a href="/wiki/Quantum_physics" class="mw-redirect" title="Quantum physics">quantum physics</a> at <a href="/wiki/Princeton_University" title="Princeton University">Princeton University</a> and scientist at <a href="/wiki/Lawrence_Berkeley_National_Laboratory" title="Lawrence Berkeley National Laboratory">Lawrence Berkeley National Laboratory</a> and known for many ground-breaking discoveries in the quantum world<sup id="cite_ref-:14_3-0" class="reference"><a href="#cite_note-:14-3">&#91;3&#93;</a></sup></li>
+<li><a href="/wiki/Abul_Hussam" title="Abul Hussam">Abul Hussam</a>, awarded the 2007 Grainger Challenge Prize for Sustainability</li>
+<li><a href="/wiki/Muhammed_Zafar_Iqbal" title="Muhammed Zafar Iqbal">Muhammed Zafar Iqbal</a>, scientist and science writer</li>
+<li><a href="/wiki/Jamal_Nazrul_Islam" title="Jamal Nazrul Islam">Jamal Nazrul Islam</a>, physicist and mathematician</li>
+<li><a href="/wiki/Jawed_Karim" title="Jawed Karim">Jawed Karim</a>, co-creator of YouTube and designed anti-fraud system of PayPal</li>
+<li><a href="/wiki/Mohammad_Ataul_Karim" title="Mohammad Ataul Karim">Mohammad Ataul Karim</a>, Bangladeshi American scientist</li>
+<li><a href="/wiki/Fazlur_Rahman_Khan" title="Fazlur Rahman Khan">Fazlur Rahman Khan</a>, structural engineer and architect</li>
+<li><a href="/wiki/Bibhuti_Roy" title="Bibhuti Roy">Bibhuti Roy</a>, engineer and educationist</li>
+<li><a href="/wiki/Sal_Khan" title="Sal Khan">Salman Khan</a>, founder of Khan Academy</li>
+<li><a href="/wiki/M._A._Naser" class="mw-redirect" title="M. A. Naser">M. A. Naser</a>, a pioneer in engineering education in Bangladesh</li>
+<li><a href="/wiki/Muhammad_Qudrat-i-Khuda" title="Muhammad Qudrat-i-Khuda">Muhammad Qudrat-i-Khuda</a>, Bangladeshi scientist, educationist and writer</li>
+<li><a href="/wiki/Khondkar_Siddique-e-Rabbani" title="Khondkar Siddique-e-Rabbani">Khondkar Siddique-e-Rabbani</a>, biomedical physicist</li>
+<li><a href="/wiki/Abdul_Matin_Patwari" title="Abdul Matin Patwari">Abdul Matin Patwari</a>, electrical engineer, mathematician, vice-chancellor of Bangladesh University of Engineering Technology</li>
+<li><a href="/wiki/Qazi_Motahar_Hossain" title="Qazi Motahar Hossain">Qazi Motahar Hossain</a>, scientist, statistician, founder-director of <a href="/wiki/Institute_of_Statistical_Research_and_Training" title="Institute of Statistical Research and Training">Institute of Statistical Research and Training</a>, <a href="/wiki/University_of_Dhaka" title="University of Dhaka">University of Dhaka</a></li>
+<li><a href="/wiki/Omar_Ishrak" title="Omar Ishrak">Omar Ishrak</a>., investor,  entrepreneur, Executive Chairman and Chairman of the Board, <a href="/wiki/Medtronic" title="Medtronic">Medtronic</a>; <a href="/wiki/Intel" title="Intel">Board Chairman of INTEL</a></li>
+<li><a href="/wiki/Mohammad_Kaykobad" title="Mohammad Kaykobad">Mohammad Kaykobad</a>, computer scientist, educator, author and columnist of Bangladesh. Professor of computer science and engineering at BUET</li></ul>
+<h2><span class="mw-headline" id="Educationist">Educationist</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_Bangladeshi_people&amp;action=edit&amp;section=6" title="Edit section: Educationist">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Serajul_Islam_Choudhury" title="Serajul Islam Choudhury">Serajul Islam Choudhury</a>, educationist, public intellectual</li>
+<li><a href="/wiki/Rasheda_K_Chowdhury" title="Rasheda K Chowdhury">Rasheda K Chowdhury</a>, Bangladeshi academic, former Advisor of Caretaker Government, Bangladesh</li>
+<li><a href="/wiki/Abul_Kashem_Fazlul_Haq_(professor)" class="mw-redirect" title="Abul Kashem Fazlul Haq (professor)">Abul Kashem Fazlul Haq (professor)</a>, educationist, former professor of <a href="/wiki/University_of_Dhaka" title="University of Dhaka">University of Dhaka</a></li>
+<li><a href="/wiki/Syed_Manzoorul_Islam" title="Syed Manzoorul Islam">Syed Manzoorul Islam</a>, educationist, former professor of <a href="/wiki/University_of_Dhaka" title="University of Dhaka">University of Dhaka</a></li>
+<li><a href="/wiki/Rafiqul_Islam_(educationist)" title="Rafiqul Islam (educationist)">Rafiqul Islam (educationist)</a>, National Professor, Bangladesh</li>
+<li><a href="/wiki/Jamilur_Reza_Choudhury" title="Jamilur Reza Choudhury">Jamilur Reza Choudhury</a>, former professor, BUET, National Professor, Bangladesh</li>
+<li><a href="/wiki/Anisuzzaman" title="Anisuzzaman">Anisuzzaman</a>, professor, University of Dhaka, national professor, Bangladesh</li></ul>
+<h2><span id="Arts.2C_culture.2C_and_literature"></span><span class="mw-headline" id="Arts,_culture,_and_literature">Arts, culture, and literature</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_Bangladeshi_people&amp;action=edit&amp;section=7" title="Edit section: Arts, culture, and literature">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><div role="note" class="hatnote navigation-not-searchable">See also: <a href="/wiki/List_of_Bangladeshi_women_writers" title="List of Bangladeshi women writers">List of Bangladeshi women writers</a></div>
+<ul><li><a href="/wiki/Hiralal_Sen" title="Hiralal Sen">Hiralal Sen</a>, founder of Indian cinema</li>
+<li><a href="/wiki/Ahmed_Sofa" title="Ahmed Sofa">Ahmed Sofa</a>, writer, thinker, novelist</li>
+<li><a href="/wiki/Zainul_Abedin" title="Zainul Abedin">Zainul Abedin</a>, painter</li>
+<li><a href="/wiki/Humayun_Ahmed" title="Humayun Ahmed">Humayun Ahmed</a>, novelist and former professor of <a href="/wiki/Chemistry" title="Chemistry">Chemistry</a>, <a href="/wiki/Dhaka_University" class="mw-redirect" title="Dhaka University">Dhaka University</a></li>
+<li><a href="/wiki/Tofail_Ahmed" title="Tofail Ahmed">Tofail Ahmed</a>, author and researcher of Folk Art</li>
+<li><a href="/wiki/Shahidul_Alam" title="Shahidul Alam">Shahidul Alam</a>, photographer</li>
+<li><a href="/wiki/Alaol" title="Alaol">Alaol</a>, medieval poet</li>
+<li><a href="/wiki/Monica_Ali" title="Monica Ali">Monica Ali</a>, author of <a href="/wiki/Brick_Lane_(book)" class="mw-redirect" title="Brick Lane (book)">Brick Lane</a></li>
+<li><a href="/wiki/Syed_Mujtaba_Ali" title="Syed Mujtaba Ali">Syed Mujtaba Ali</a>, Bengali author, academician, scholar and <a href="/wiki/Linguist" class="mw-redirect" title="Linguist">linguist</a></li>
+<li><a href="/wiki/Tahmima_Anam" title="Tahmima Anam">Tahmima Anam</a>, novelist and winner of the 2008 <a href="/wiki/Commonwealth_Writers%27_Prize" class="mw-redirect" title="Commonwealth Writers&#39; Prize">Commonwealth Writers' Prize</a></li>
+<li><a href="/wiki/Rashid_Askari" title="Rashid Askari">Rashid Askari</a>, writer, fictionist, columnist, and academic</li>
+<li><a href="/wiki/Humayun_Azad" title="Humayun Azad">Humayun Azad</a>, writer and former professor of <a href="/wiki/Bengali_language" title="Bengali language">Bengali</a>, <a href="/wiki/Dhaka_University" class="mw-redirect" title="Dhaka University">Dhaka University</a></li>
+<li><a href="/wiki/Rafiq_Azad" title="Rafiq Azad">Rafiq Azad</a>, poet</li>
+<li><a href="/wiki/Manzoor_Alam_Beg" title="Manzoor Alam Beg">Manzoor Alam Beg</a>, photographer and author</li>
+<li><a href="/wiki/Munier_Chowdhury" class="mw-redirect" title="Munier Chowdhury">Munier Chowdhury</a>, educator, dramatist and intellectual killed in 1971 <a href="/wiki/Liberation_War_of_Bangladesh" class="mw-redirect" title="Liberation War of Bangladesh">Liberation War of Bangladesh</a></li>
+<li><a href="/wiki/Akhteruzzaman_Elias" title="Akhteruzzaman Elias">Akhteruzzaman Elias</a>, novelist and short story writer</li>
+<li><a href="/wiki/Nirmalendu_Goon" title="Nirmalendu Goon">Nirmalendu Goon</a>, poet</li>
+<li><a href="/wiki/Abdul_Hakim_(poet)" title="Abdul Hakim (poet)">Abdul Hakim</a>, medieval poet</li>
+<li><a href="/wiki/Marjana_Chowdhury" title="Marjana Chowdhury">Marjana Chowdhury</a>, Bangladeshi-American model, philanthropist and beauty queen <a href="/wiki/Miss_Bangladesh_USA" title="Miss Bangladesh USA">Miss Bangladesh USA</a></li>
+<li><a href="/wiki/Sikdar_Aminul_Haq" title="Sikdar Aminul Haq">Sikdar Aminul Haq</a>, poet</li>
+<li><a href="/wiki/Quamrul_Hassan" title="Quamrul Hassan">Quamrul Hassan</a>, artist</li>
+<li><a href="/wiki/Saad_Z_Hossain" title="Saad Z Hossain">Saad Z Hossain</a>, writer</li>
+<li><a href="/wiki/Khondakar_Ashraf_Hossain" title="Khondakar Ashraf Hossain">Khondakar Ashraf Hossain</a>, poet, essayist, translator and editor</li>
+<li><a href="/wiki/Abul_Hussain" title="Abul Hussain">Abul Hussain</a>, poet</li>
+<li><a href="/wiki/Jahanara_Imam" title="Jahanara Imam">Jahanara Imam</a>, writer and activist</li>
+<li><a href="/wiki/Muhammed_Zafar_Iqbal" title="Muhammed Zafar Iqbal">Muhammed Zafar Iqbal</a>, writer and educator</li>
+<li><a href="/wiki/Kazi_Nazrul_Islam" title="Kazi Nazrul Islam">Kazi Nazrul Islam</a>, national poet of Bangladesh</li>
+<li><a href="/wiki/Mazharul_Islam" class="mw-redirect" title="Mazharul Islam">Mazharul Islam</a>, architect, political activist</li>
+<li><a href="/wiki/Syed_Jahangir" title="Syed Jahangir">Syed Jahangir</a>, freelance artist of Bangladesh</li>
+<li><a href="/wiki/Jasimuddin" title="Jasimuddin">Jasimuddin</a>, poet</li>
+<li><a href="/wiki/Shahriyar_Kabir" class="mw-redirect" title="Shahriyar Kabir">Shahriyar Kabir</a>, author and journalist</li>
+<li><a href="/wiki/Shahidullah_Kaiser" title="Shahidullah Kaiser">Shahidullah Kaiser</a>, educator, novelist and intellectual killed in 1971 <a href="/wiki/Liberation_War_of_Bangladesh" class="mw-redirect" title="Liberation War of Bangladesh">Liberation War of Bangladesh</a></li>
+<li><a href="/wiki/Abul_Kashem" title="Abul Kashem">Abul Kashem</a>, architect and educationist</li>
+<li><a href="/wiki/Lalon" title="Lalon">Lalon</a> Shah, mystic poet</li>
+<li><a href="/wiki/Al_Mahmud" title="Al Mahmud">Al Mahmud</a>, poet</li>
+<li><a href="/wiki/Firoz_Mahmud" title="Firoz Mahmud">Firoz Mahmud</a>, contemporary visual artist, creator, painter</li>
+<li><a href="/wiki/Partha_Pratim_Majumder" title="Partha Pratim Majumder">Partha Pratim Majumder</a>, Bangladeshi mime artist who is considered the "forerunner" of mime art in Bangladesh</li>
+<li><a href="/wiki/Natyaguru" class="mw-redirect" title="Natyaguru">Natyaguru</a> <a href="/wiki/Nurul_Momen" title="Nurul Momen">Nurul Momen</a>, Trailblazer progressive cultural personality who dispelled fundamentalism from the society by championing Theatrical &amp; performing arts &amp; secular literature.</li>
+<li><a href="/wiki/Shahabuddin_Nagari" title="Shahabuddin Nagari">Shahabuddin Nagari</a>, poet, writer and singer</li>
+<li><a href="/wiki/Shamsur_Rahman_(poet)" title="Shamsur Rahman (poet)">Shamsur Rahman</a>, poet</li>
+<li><a href="/wiki/Hason_Raja" title="Hason Raja">Hason Raja</a>, mystic poet</li>
+<li><a href="/wiki/Begum_Rokeya" title="Begum Rokeya">Begum Rokeya</a>, writer</li>
+<li><a href="/wiki/Bibi_Russell" title="Bibi Russell">Bibi Russell</a>, model and fashion designer</li>
+<li><a href="/wiki/Arunabh_Sarkar" title="Arunabh Sarkar">Arunabh Sarkar</a>, poet</li>
+<li><a href="/wiki/Muhammad_Shahidullah" title="Muhammad Shahidullah">Muhammad Shahidullah</a>, Bengali educationist, writer and linguist</li>
+<li><a href="/wiki/Rudra_Muhammad_Shahidullah" class="mw-redirect" title="Rudra Muhammad Shahidullah">Rudra Muhammad Shahidullah</a>, poet</li>
+<li><a href="/wiki/Ahmed_Sharif" title="Ahmed Sharif">Ahmed Sharif</a>, writer of Bengali literature, secularist</li>
+<li><a href="/wiki/SM_Sultan" title="SM Sultan">SM Sultan</a>, painter</li>
+<li><a href="/wiki/Kamal_Abdul_Naser_Chowdhury" class="mw-redirect" title="Kamal Abdul Naser Chowdhury">Kamal Chowdhury</a>, poet</li>
+<li><a href="/wiki/Taslima_Nasrin" title="Taslima Nasrin">Taslima Nasrin</a>, famous writer and feminist, awardee of Ananda Puraskar</li>
+<li><a href="/wiki/Salimullah_Khan" title="Salimullah Khan">Salimullah Khan</a>, writer, thinker</li>
+<li><a href="/wiki/Hasan_Azizul_Huq" title="Hasan Azizul Huq">Hasan Azizul Haq</a>, writer</li>
+<li><a href="/wiki/Sanjida_Khatun" title="Sanjida Khatun">Sanjida Khatun</a>, musicologist, one of the founders of <a href="/wiki/Chhayanaut" title="Chhayanaut">Chhayanaut</a></li>
+<li><a href="/wiki/Shahid_Mahmud_Jangi" title="Shahid Mahmud Jangi">Shahid Mahmud Jangi</a>, writer, lyricist</li>
+<li><a href="/w/index.php?title=Md_Saidul_Islam&amp;action=edit&amp;redlink=1" class="new" title="Md Saidul Islam (page does not exist)">Md Saidul Islam</a>, painter</li></ul>
+<h2><span class="mw-headline" id="Social_reformers_and_leaders">Social reformers and leaders</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_Bangladeshi_people&amp;action=edit&amp;section=8" title="Edit section: Social reformers and leaders">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Fazle_Hasan_Abed" title="Fazle Hasan Abed">Fazle Hasan Abed</a>,  founder of BRAC</li>
+<li><a href="/wiki/Hazi_Mohammad_Mohsin" class="mw-redirect" title="Hazi Mohammad Mohsin">Hazi Mohammad Mohsin</a>, philanthropist</li>
+<li><a href="/wiki/Muhammad_Yunus" title="Muhammad Yunus">Muhammad Yunus</a>, founder of the <a href="/wiki/Grameen_Bank" title="Grameen Bank">Grameen Bank</a>, 2006 <a href="/wiki/Nobel_Peace_Prize" title="Nobel Peace Prize">Nobel Peace Prize</a> winner</li></ul>
+<h2><span id="Music.2C_film_and_television"></span><span class="mw-headline" id="Music,_film_and_television">Music, film and television</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_Bangladeshi_people&amp;action=edit&amp;section=9" title="Edit section: Music, film and television">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Ayub_Bachchu" title="Ayub Bachchu">Ayub Bachchu</a>, singer and guitarist</li>
+<li><a href="/wiki/Abdur_Razzak_(actor)" title="Abdur Razzak (actor)">Abdur Razzak</a>, actor, director</li>
+<li><a href="/wiki/Shabana_(actress)" title="Shabana (actress)">Shabana</a>, film actress</li>
+<li><a href="/wiki/Bobita" class="mw-redirect" title="Bobita">Bobita</a>, film actress</li>
+<li><a href="/wiki/Shefali_Chowdhury" title="Shefali Chowdhury">Shefali Chowdhury</a>, played <a href="/wiki/Harry_Potter" title="Harry Potter">Harry Potter</a>'s Yule Ball date in <i>Goblet of Fire</i></li>
+<li><a href="/wiki/Sumita_Devi" title="Sumita Devi">Sumita Devi</a>, film and television actress</li>
+<li><a href="/wiki/Farzana_Dua_Elahe" title="Farzana Dua Elahe">Farzana Dua Elahe</a>, British actress and DJ</li>
+<li><a href="/wiki/Abdul_%22Duke%22_Fakir" title="Abdul &quot;Duke&quot; Fakir">Abdul "Duke" Fakir</a>, American singer of Ethiopian and Bangladeshi descent, member of the <a href="/wiki/Four_Tops" title="Four Tops">Four Tops</a></li>
+<li><a href="/wiki/Humayun_Faridi" title="Humayun Faridi">Humayun Faridi</a>, TV, stage, and film actor</li>
+<li><a href="/wiki/Dipjol" title="Dipjol">Dipjol</a>, film actor, film producer and politician</li>
+<li><a href="/wiki/Waheedul_Haq" title="Waheedul Haq">Waheedul Haq</a>, Tagore song specialist and journalist</li>
+<li><a href="/wiki/Zahid_Hasan" title="Zahid Hasan">Zahid Hasan</a>, actor and director</li>
+<li><a href="/wiki/Rahsaan_Islam" class="mw-redirect" title="Rahsaan Islam">Rahsaan Islam</a>, American actor of Bangladeshi descent</li>
+<li><a href="/wiki/Jayasree_Kabir" class="mw-redirect" title="Jayasree Kabir">Jayasree Kabir</a>, actress</li>
+<li><a href="/wiki/Kaushik_Hossain_Taposh" title="Kaushik Hossain Taposh">Kaushik Hossain Taposh</a>, music composer, singer, producer &amp; MD of <a href="/wiki/Gaan_Bangla" title="Gaan Bangla">Gaan Bangla</a></li>
+<li><a href="/wiki/Mosharraf_Karim" title="Mosharraf Karim">Mosharraf Karim</a>, actor</li>
+<li><a href="/wiki/Montazur_Rahman_Akbar" title="Montazur Rahman Akbar">Montazur Rahman Akbar</a>, film director, producer</li>
+<li><a href="/wiki/Azam_Khan_(singer)" title="Azam Khan (singer)">Azam Khan</a>, singer</li>
+<li><a href="/wiki/Tahsan_Rahman_Khan" title="Tahsan Rahman Khan">Tahsan Rahman Khan</a>, singer and actor</li>
+<li><a href="/wiki/Shakib_Khan" title="Shakib Khan">Shakib Khan</a>, actor, producer, singer, film organiser and media personality</li>
+<li><a href="/wiki/Arifin_Shuvoo" title="Arifin Shuvoo">Arifin Shuvoo</a>, actor, television presenter, RJ and model</li>
+<li><a href="/wiki/Runa_Laila" title="Runa Laila">Runa Laila</a>, singer</li>
+<li><a href="/wiki/Manna_(actor)" title="Manna (actor)">Manna</a>, film actor</li>
+<li><a href="/wiki/Tareque_Masud" title="Tareque Masud">Tareque Masud</a>, film director</li>
+<li><a href="/wiki/Tanvir_Mokammel" title="Tanvir Mokammel">Tanvir Mokammel</a>, film director</li>
+<li><a href="/wiki/Asaduzzaman_Noor" title="Asaduzzaman Noor">Asaduzzaman Noor</a>, actor, politician and member of parliament</li>
+<li><a href="/wiki/Khan_Ataur_Rahman" title="Khan Ataur Rahman">Khan Ataur Rahman</a>, film director</li>
+<li><a href="/wiki/Shahnaz_Rahmatullah" title="Shahnaz Rahmatullah">Shahnaz Rahmatullah</a>, singer</li>
+<li><a href="/wiki/Rola_(model)" title="Rola (model)">Rola</a>, half Bangladeshi, quarter Russian, quarter Japanese fashion model</li>
+<li><a href="/wiki/Shabnam" title="Shabnam">Shabnam</a>, film actress</li>
+<li><a href="/wiki/Dino_Shafeek" title="Dino Shafeek">Dino Shafeek</a>, British actor known for <i><a href="/wiki/Mind_Your_Language" title="Mind Your Language">Mind Your Language</a></i></li>
+<li><a href="/wiki/Salman_Shah_(actor)" title="Salman Shah (actor)">Salman Shah</a>, film actor</li>
+<li><a href="/wiki/Sabina_Yasmin" title="Sabina Yasmin">Sabina Yasmin</a>, singer</li>
+<li><a href="/wiki/Zahir_Raihan" title="Zahir Raihan">Zahir Raihan</a>, film director</li></ul>
+<h2><span class="mw-headline" id="Economists">Economists</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_Bangladeshi_people&amp;action=edit&amp;section=10" title="Edit section: Economists">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Muhiuddin_Khan_Alamgir" title="Muhiuddin Khan Alamgir">Muhiuddin Khan Alamgir</a>, Internationally recognised economist, elected member of IMF (International Monetary Fund), National political leader</li>
+<li><a href="/wiki/Qazi_Kholiquzzaman_Ahmad" title="Qazi Kholiquzzaman Ahmad">Qazi Kholiquzzaman Ahmad</a>, economist and development thinker, Chairman of <a href="/wiki/Dhaka_School_of_Economics" title="Dhaka School of Economics">Dhaka School of Economics</a></li>
+<li><a href="/wiki/Muzaffar_Ahmed_(economist)" title="Muzaffar Ahmed (economist)">Muzaffar Ahmed</a>, economist and an <a href="/wiki/Emeritus_professor" class="mw-redirect" title="Emeritus professor">emeritus professor</a> at the <a href="/wiki/Institute_of_Business_Administration,_University_of_Dhaka" title="Institute of Business Administration, University of Dhaka">Institute of Business Administration</a> of the <a href="/wiki/University_of_Dhaka" title="University of Dhaka">University of Dhaka</a></li>
+<li><a href="/wiki/Atiur_Rahman" title="Atiur Rahman">Atiur Rahman</a>, economist, Governor of <a href="/wiki/Bangladesh_Bank" title="Bangladesh Bank">Bangladesh Bank</a> and a former director of the state-owned <a href="/wiki/Sonali_Bank" title="Sonali Bank">Sonali Bank</a></li>
+<li><a href="/wiki/Rehman_Sobhan" title="Rehman Sobhan">Rehman Sobhan</a>, economist</li></ul>
+<h2><span class="mw-headline" id="Entrepreneurs">Entrepreneurs</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_Bangladeshi_people&amp;action=edit&amp;section=11" title="Edit section: Entrepreneurs">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Abdul_Awal_Mintoo" title="Abdul Awal Mintoo">Abdul Awal Mintoo</a>, former president of <a href="/wiki/Federation_of_Bangladesh_Chambers_of_Commerce_and_Industry" class="mw-redirect" title="Federation of Bangladesh Chambers of Commerce and Industry">Federation of Bangladesh Chambers of Commerce and Industry</a> (FBCCI)</li>
+<li><a href="/wiki/Amjad_Khan_Chowdhury" title="Amjad Khan Chowdhury">Amjad Khan Chowdhury</a>, Founder of Bangladesh business conglomerate <a href="/wiki/PRAN-RFL_Group" title="PRAN-RFL Group">PRAN-RFL Group</a>.</li>
+<li><a href="/wiki/Ahsan_Khan_Chowdhury" title="Ahsan Khan Chowdhury">Ahsan Khan Chowdhury</a>, Chairman &amp; CEO of <a href="/wiki/PRAN-RFL_Group" title="PRAN-RFL Group">PRAN-RFL Group</a>, one of the leading business <a href="/wiki/Conglomerate_(company)" title="Conglomerate (company)">conglomerates</a> in Bangladesh</li>
+<li><a href="/wiki/Ahmed_Akbar_Sobhan" title="Ahmed Akbar Sobhan">Ahmed Akbar Sobhan</a>, chairman of the business conglomerate <a href="/wiki/Bashundhara_Group" title="Bashundhara Group">Bashundhara Group</a></li>
+<li><a href="/wiki/Ananta_Jalil" title="Ananta Jalil">Ananta Jalil</a>, chairman of AJ Group (Bangladesh)</li>
+<li><a href="/wiki/Ayman_Sadiq" class="mw-redirect" title="Ayman Sadiq">Ayman Sadiq</a>, founder of 10 Minutes School</li>
+<li><a href="/wiki/Sir_Fazle_Hasan_Abed" class="mw-redirect" title="Sir Fazle Hasan Abed">Sir Fazle Hasan Abed</a>, founder and chairperson of the world's largest international development NGO, <a href="/wiki/BRAC_(NGO)" class="mw-redirect" title="BRAC (NGO)">BRAC</a></li>
+<li><a href="/wiki/Samson_H._Chowdhury" title="Samson H. Chowdhury">Samson H. Chowdhury</a>, chairman of Astras Ltd. and Square (Bangladesh)</li>
+<li><a href="/wiki/Syed_Manzur_Elahi" title="Syed Manzur Elahi">Syed Manzur Elahi</a>, founder of Apex Group<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup></li>
+<li><a href="/wiki/Iqbal_Quadir" title="Iqbal Quadir">Iqbal Quadir</a>, co-founder of <a href="/wiki/GrameenPhone" class="mw-redirect" title="GrameenPhone">GrameenPhone</a></li>
+<li><a href="/wiki/Jawed_Karim" title="Jawed Karim">Jawed Karim</a>, co-founder of <a href="/wiki/YouTube" title="YouTube">YouTube</a></li>
+<li><a href="/wiki/Mahmudur_Rahman" title="Mahmudur Rahman">Mahmudur Rahman</a>, newspaper owner and editor</li>
+<li><a href="/wiki/Mohammad_Fazlul_Azim" title="Mohammad Fazlul Azim">Mohammad Fazlul Azim</a>, chairman of Azim Group, former MP</li>
+<li><a href="/wiki/Omar_Ishrak" title="Omar Ishrak">Omar Ishrak</a>., investor,  entrepreneur, Executive Chairman and Chairman of the Board, <a href="/wiki/Medtronic" title="Medtronic">Medtronic</a>; <a href="/wiki/Intel" title="Intel">Board Chairman of INTEL</a></li></ul>
+<h2><span class="mw-headline" id="Media_and_journalism">Media and journalism</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_Bangladeshi_people&amp;action=edit&amp;section=12" title="Edit section: Media and journalism">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Mukhlesur_Rahman_Chowdhury" title="Mukhlesur Rahman Chowdhury">Mukhlesur Rahman Chowdhury</a>, former adviser to the President of Bangladesh</li>
+<li><a href="/wiki/Salah_Choudhury" title="Salah Choudhury">Salah Choudhury</a>, writer, peace activist and journalist</li>
+<li><a href="/wiki/Lenin_Gani" title="Lenin Gani">Lenin Gani</a>, journalist, winner of the Best Sports Report in 2001 by Dhaka Reporters Unity</li>
+<li><a href="/wiki/Kaberi_Gayen" title="Kaberi Gayen">Kaberi Gayen</a>, prominent academic, author, columnist for <i>The Daily Star</i></li>
+<li><a href="/wiki/Kazi_Shamsul_Hoque" class="mw-redirect" title="Kazi Shamsul Hoque">Kazi Shamsul Hoque</a>, journalist</li>
+<li><a href="/wiki/Mainul_Hosein" title="Mainul Hosein">Mainul Hosein</a>, former chairman of the editorial board of <i><a href="/wiki/The_Daily_Ittefaq" title="The Daily Ittefaq">The Daily Ittefaq</a></i></li>
+<li><a href="/wiki/Naveed_Mahbub" title="Naveed Mahbub">Naveed Mahbub</a>, comedian and columnist</li>
+<li><a href="/wiki/Matiur_Rahman_(journalist)" title="Matiur Rahman (journalist)">Matiur Rahman</a>, editor of the daily <i><a href="/wiki/Prothom_Alo" title="Prothom Alo">Prothom Alo</a></i>, winner of <a href="/wiki/Ramon_Magsaysay_Award" title="Ramon Magsaysay Award">Ramon Magsaysay Award</a> for journalism</li>
+<li><a href="/wiki/Shykh_Seraj" title="Shykh Seraj">Shykh Seraj</a>, director of News <a href="/wiki/Channel_i" title="Channel i">Channel i</a>, Agriculture Development activist, winner of <a href="/wiki/FAO" class="mw-redirect" title="FAO">FAO</a> A.H. Boerma Award, <a href="/wiki/Ekushey_Padak" title="Ekushey Padak">Ekushey Padak</a></li>
+<li><a href="/wiki/Mahbub_Jamal_Zahedi" title="Mahbub Jamal Zahedi">Mahbub Jamal Zahedi</a>, former editor of the <i><a href="/wiki/Khaleej_Times" title="Khaleej Times">Khaleej Times</a></i>, assistant editor of <i><a href="/wiki/Dawn_(newspaper)" title="Dawn (newspaper)">Dawn</a></i>, and founder-editor of <i><a href="/wiki/The_Agatya" title="The Agatya">The Agatya</a></i></li>
+<li><a href="/wiki/Samia_Zaman" title="Samia Zaman">Samia Zaman</a>, Editor and CEO of the television channel <i><a href="/wiki/Ekattor_TV" title="Ekattor TV">Ekattor TV</a></i></li>
+<li><a href="/wiki/Tasmima_Hossain" title="Tasmima Hossain">Tasmima Hossain</a>, On 4 July 2018, she was made the editor of <i><a href="/wiki/The_Daily_Ittefaq" title="The Daily Ittefaq">The Daily Ittefaq</a></i></li>
+<li><a href="/wiki/Anisul_Hoque" title="Anisul Hoque">Anisul Hoque</a>, associate editor of a Bengali language daily <i><a href="/wiki/Prothom_Alo" title="Prothom Alo">Prothom Alo</a></i> and the editor of monthly youth magazine Kishor Alo</li>
+<li><a href="/wiki/Naem_Nizam" title="Naem Nizam">Naem Nizam</a>, Editor <a href="/wiki/Bangladesh_Pratidin" title="Bangladesh Pratidin">Bangladesh Pratidin</a></li>
+<li><a href="/wiki/Farida_Yasmin_(journalist)" title="Farida Yasmin (journalist)">Farida Yasmin</a>, President of <a href="/wiki/Jatiya_Press_Club" title="Jatiya Press Club">Jatiya Press Club</a></li>
+<li><a href="/wiki/Khaled_Muhiuddin" title="Khaled Muhiuddin">Khaled Muhiuddin</a>, head of the German-based international media, Deutsche Welle Bangla Department</li></ul>
+<h2><span class="mw-headline" id="Political_figures">Political figures</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_Bangladeshi_people&amp;action=edit&amp;section=13" title="Edit section: Political figures">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Muhiuddin_Khan_Alamgir" title="Muhiuddin Khan Alamgir">Muhiuddin Khan Alamgir</a>, Adviser, Bangladesh Awami League, Former Home Minister</li>
+<li><a href="/wiki/M_Saifur_Rahman" class="mw-redirect" title="M Saifur Rahman">M Saifur Rahman</a>, former finance minister</li>
+<li><a href="/wiki/Shah_M_S_Kibria" class="mw-redirect" title="Shah M S Kibria">Shah M S Kibria</a>, former finance minister</li>
+<li><a href="/wiki/Abdus_Samad_Azad" title="Abdus Samad Azad">Abdus Samad Azad</a>, former Foreign Minister</li>
+<li><a href="/wiki/Dewan_Farid_Gazi" title="Dewan Farid Gazi">Dewan Farid Gazi</a>, former minister</li>
+<li><a href="/wiki/Abul_Mal_Abdul_Muhit" class="mw-redirect" title="Abul Mal Abdul Muhit">Abul Mal Abdul Muhit</a>, incumbent finance minister</li>
+<li><a href="/wiki/Nurul_Islam_Nahid" title="Nurul Islam Nahid">Nurul Islam Nahid</a>, incumbent education minister</li>
+<li><a href="/wiki/Abul_Mansur_Ahmed" class="mw-redirect" title="Abul Mansur Ahmed">Abul Mansur Ahmed</a>, politician from Mymensingh</li>
+<li><a href="/wiki/Moudud_Ahmed" title="Moudud Ahmed">Moudud Ahmed</a>, barrister, politician and statesman</li>
+<li><a href="/wiki/Oli_Ahmed" class="mw-redirect" title="Oli Ahmed">Oli Ahmed</a> (<a href="/wiki/Bir_Bikram" title="Bir Bikram">Bir Bikram</a>), President of the <a href="/wiki/Liberal_Democratic_Party_(Bangladesh)" title="Liberal Democratic Party (Bangladesh)">Liberal Democratic Party (Bangladesh)</a>, 2006–present; former Minister (various portfolios in multiple cabinets); decorated freedom fighter; one of the main founders of <a href="/wiki/Bangladesh_Nationalist_Party" title="Bangladesh Nationalist Party">Bangladesh Nationalist Party</a> (BNP)</li>
+<li><a href="/wiki/Shahabuddin_Ahmed" title="Shahabuddin Ahmed">Shahabuddin Ahmed</a>, former president</li>
+<li><a href="/wiki/Tajuddin_Ahmed" class="mw-redirect" title="Tajuddin Ahmed">Tajuddin Ahmed</a>, first Prime Minister of Bangladesh</li>
+<li><a href="/wiki/Majid-ul-Haq" title="Majid-ul-Haq">Majid-ul-Haq</a>, Minister</li>
+<li><a href="/wiki/Ghulam_Azam" title="Ghulam Azam">Ghulam Azam</a>, Islamist politician, former leader of <a href="/wiki/Jamaat-e-Islami_Bangladesh" class="mw-redirect" title="Jamaat-e-Islami Bangladesh">Jamaat-e-Islami Bangladesh</a>, accused of war crimes for his role in 1971 <a href="/wiki/Bangladesh_Liberation_War" title="Bangladesh Liberation War">Bangladesh Liberation War</a></li>
+<li><a href="/wiki/Maulana_Bhashani" class="mw-redirect" title="Maulana Bhashani">Maulana Abdul Hamid Khan Bhashani</a>, founder of <a href="/wiki/Bangladesh_Awami_League" class="mw-redirect" title="Bangladesh Awami League">Bangladesh Awami League</a>, <a href="/wiki/National_Awami_Party" title="National Awami Party">National Awami Party</a></li>
+<li><a href="/wiki/Muhammad_Ali_Bogra" class="mw-redirect" title="Muhammad Ali Bogra">Muhammad Ali Bogra</a>, <a href="/wiki/Prime_Minister_of_Pakistan" title="Prime Minister of Pakistan">Prime Minister of Pakistan</a> from 1953 to 1955</li>
+<li><a href="/wiki/Fazlul_Qadir_Chaudhry" title="Fazlul Qadir Chaudhry">Fazlul Qadir Chaudhry</a>, acting President of Pakistan, Speaker of the National Assembly of Pakistan, President of Muslim League, accused of war crimes for his role in 1971 <a href="/wiki/Bangladesh_Liberation_War" title="Bangladesh Liberation War">Bangladesh Liberation War</a></li>
+<li><a href="/wiki/Hamidul_Huq_Choudhury" title="Hamidul Huq Choudhury">Hamidul Huq Choudhury</a>, Foreign Minister of Pakistan from 1954 to 1956</li>
+<li><a href="/wiki/A.B.M._Mohiuddin_Chowdhury" class="mw-redirect" title="A.B.M. Mohiuddin Chowdhury">A.B.M. Mohiuddin Chowdhury</a>, mayor of Chittagong, member of the Chowdhury Family</li>
+<li><a href="/wiki/A.Q.M._Badruddoza_Chowdhury" class="mw-redirect" title="A.Q.M. Badruddoza Chowdhury">A.Q.M. Badruddoza Chowdhury</a>, former president, Leader of <a href="/wiki/Bikalpa_Dhara" class="mw-redirect" title="Bikalpa Dhara">Bikalpa Dhara</a></li>
+<li><a href="/wiki/Motiya_Chowdhury" class="mw-redirect" title="Motiya Chowdhury">Motiya Chowdhury</a>, member of Parliament, former Minister of Agriculture</li>
+<li><a href="/wiki/Saber_Hossain_Chowdhury" title="Saber Hossain Chowdhury">Saber Hossain Chowdhury</a>, member of Parliament</li>
+<li><a href="/wiki/Salauddin_Quader_Chowdhury" class="mw-redirect" title="Salauddin Quader Chowdhury">Salauddin Quader Chowdhury</a>, former Minister, accused of war crimes for his role in 1971 <a href="/wiki/Bangladesh_Liberation_War" title="Bangladesh Liberation War">Bangladesh Liberation War</a>, son of <a href="/wiki/Fazlul_Qadir_Chaudhry" title="Fazlul Qadir Chaudhry">Fazlul Qadir Chaudhry</a></li>
+<li><a href="/wiki/Hussain_Mohammed_Ershad" class="mw-redirect" title="Hussain Mohammed Ershad">Hussain Mohammed Ershad</a>, <a href="/wiki/Chief_martial_law_administrator" class="mw-redirect" title="Chief martial law administrator">CMLA</a> and later President from 1982 to 1991; Leader of <a href="/wiki/Jatiya_Party_(Ershad)" title="Jatiya Party (Ershad)">Jatiya Party</a></li>
+<li><a href="/wiki/Mirza_Ghulam_Hafiz" title="Mirza Ghulam Hafiz">Mirza Ghulam Hafiz</a>, politician and minister</li>
+<li><a href="/wiki/Sheikh_Hasina_Wazed" class="mw-redirect" title="Sheikh Hasina Wazed">Sheikh Hasina</a>, Prime Minister, 1996–2001, 2009–present</li>
+<li><a href="/wiki/Khorshed_Ara_Haque" title="Khorshed Ara Haque">Khorshed Ara Haque</a>, Member of Parliament</li>
+<li><a href="/wiki/A._K._Fazlul_Huq" title="A. K. Fazlul Huq">A. K. Fazlul Huq</a>, Chief Minister of East Bengal, Governor of East Pakistan</li>
+<li><a href="/wiki/Altaf_Husain" title="Altaf Husain">Altaf Husain</a>, minister of Commerce and Industry of Pakistan from 1965 to 1968</li>
+<li><a href="/wiki/Abdul_Jolil_(Bangladesh_politician)" class="mw-redirect" title="Abdul Jolil (Bangladesh politician)">Abdul Jolil</a>, politician and Minister</li>
+<li><a href="/wiki/Morshed_Khan" title="Morshed Khan">Morshed Khan</a>, former Foreign Minister</li>
+<li><a href="/wiki/Khawaja_Nazimuddin" title="Khawaja Nazimuddin">Khawaja Nazimuddin</a>, second <a href="/wiki/Governor-General_of_Pakistan" title="Governor-General of Pakistan">Governor-General of Pakistan</a>, and the second <a href="/wiki/Prime_Minister_of_Pakistan" title="Prime Minister of Pakistan">Prime Minister of Pakistan</a></li>
+<li><a href="/wiki/Shah_Azizur_Rahman" title="Shah Azizur Rahman">Shah Azizur Rahman</a>, former Prime Minister of Bangladesh</li>
+<li><a href="/wiki/Sheikh_Mujibur_Rahman" title="Sheikh Mujibur Rahman">Sheikh Mujibur Rahman</a>, former Prime Minister of Bangladesh</li>
+<li><a href="/wiki/Tareq_Rahman" class="mw-redirect" title="Tareq Rahman">Tareq Rahman</a>, senior vice president of <a href="/wiki/Bangladesh_Nationalist_Party" title="Bangladesh Nationalist Party">Bangladesh Nationalist Party</a> (BNP), son of <a href="/wiki/Begum_Khaleda_Zia" class="mw-redirect" title="Begum Khaleda Zia">Begum Khaleda Zia</a> and <a href="/wiki/Ziaur_Rahman" title="Ziaur Rahman">Ziaur Rahman</a></li>
+<li><a href="/wiki/Abdur_Razzaq_(politician)" title="Abdur Razzaq (politician)">Abdur Razzaq</a>, former minister of agriculture</li>
+<li><a href="/wiki/Khwaja_Salimullah" title="Khwaja Salimullah">Nawab Sir Khwaja Salimullah</a>, first to propose the creation of the <a href="/wiki/All_India_Muslim_League" class="mw-redirect" title="All India Muslim League">All India Muslim League</a></li>
+<li><a href="/wiki/Suranjit_Sengupta" title="Suranjit Sengupta">Suranjit Sengupta</a>, politician and minister</li>
+<li><a href="/wiki/Huseyn_Shaheed_Suhrawardy" title="Huseyn Shaheed Suhrawardy">Huseyn Shaheed Suhrawardy</a>, <a href="/wiki/Prime_Minister_of_Pakistan" title="Prime Minister of Pakistan">Prime Minister of Pakistan</a>, 1956-1957</li>
+<li><a href="/wiki/Begum_Khaleda_Zia" class="mw-redirect" title="Begum Khaleda Zia">Begum Khaleda Zia</a>, Prime Minister, 1991–1996; 2001-2006</li></ul>
+<h2><span class="mw-headline" id="Photographers">Photographers</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_Bangladeshi_people&amp;action=edit&amp;section=14" title="Edit section: Photographers">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/GMB_Akash" title="GMB Akash">GMB Akash</a></li>
+<li><a href="/wiki/Shahidul_Alam" title="Shahidul Alam">Shahidul Alam</a></li>
+<li><a href="/wiki/Manzoor_Alam_Beg" title="Manzoor Alam Beg">Manzoor Alam Beg</a></li>
+<li><a href="/wiki/Anwar_Hossain_(photographer)" title="Anwar Hossain (photographer)">Anwar Hossain</a></li>
+<li><a href="/wiki/Sarker_Protick" title="Sarker Protick">Sarker Protick</a></li>
+<li><a href="/wiki/Munem_Wasif" title="Munem Wasif">Munem Wasif</a></li></ul>
+<h2><span class="mw-headline" id="Heads_of_government">Heads of government</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_Bangladeshi_people&amp;action=edit&amp;section=15" title="Edit section: Heads of government">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><div role="note" class="hatnote navigation-not-searchable">See also: <a href="/wiki/List_of_Presidents_of_Bangladesh" class="mw-redirect" title="List of Presidents of Bangladesh">List of Presidents of Bangladesh</a> and <a href="/wiki/List_of_Prime_Ministers_of_Bangladesh" class="mw-redirect" title="List of Prime Ministers of Bangladesh">List of Prime Ministers of Bangladesh</a></div>
+<ul><li><a href="/wiki/Khondaker_Mostaq_Ahmad" title="Khondaker Mostaq Ahmad">Khondaker Mostaq Ahmad</a>, President, August 15, 1975 – November 3, 1975</li>
+<li><a href="/wiki/Tajuddin_Ahmed" class="mw-redirect" title="Tajuddin Ahmed">Tajuddin Ahmed</a>, (by Appointment and Oath) Prime Minister, 1971–1972</li>
+<li><a href="/wiki/Hussain_Mohammed_Ershad" class="mw-redirect" title="Hussain Mohammed Ershad">Hussain Mohammed Ershad</a>, by (India supported Military Coup) Chief Martial Law Administrator (CMLA) 1982–1985 and self declared President (1985–1990 December 6)</li>
+<li><a href="/wiki/Sheikh_Hasina_Wazed" class="mw-redirect" title="Sheikh Hasina Wazed">Sheikh Hasina</a>, (elected) Prime Minister, 1996–2001, 2009–13, 2013–present</li>
+<li><a href="/wiki/A._K._Fazlul_Huq" title="A. K. Fazlul Huq">A. K. Fazlul Huq</a>, presented the <a href="/wiki/Lahore_Resolution" title="Lahore Resolution">Lahore Resolution</a> of 1940 that established Muslim League's demand for a homeland for Muslims, Pakistan</li>
+<li><a href="/wiki/Sheikh_Mujibur_Rahman" title="Sheikh Mujibur Rahman">Sheikh Mujibur Rahman</a>, Chairman of the Awami League 1966–1974 and Prime Minister 1972~1974, Chairman of <a href="/wiki/BAKSAL" class="mw-redirect" title="BAKSAL">BAKSAL</a> and President January 1975–August 15, 1975</li>
+<li><a href="/wiki/Ziaur_Rahman" title="Ziaur Rahman">Ziaur Rahman</a>,  Chief Martial Law Administrator (CMLA) (under National State of Emergency) (November 7, 1975 – 1977); President, 1977–1981 (Assassinated May 30)</li>
+<li><a href="/wiki/Huseyn_Shaheed_Suhrawardy" title="Huseyn Shaheed Suhrawardy">Huseyn Shaheed Suhrawardy</a>, <a href="/wiki/Prime_Minister_of_Pakistan" title="Prime Minister of Pakistan">Prime Minister of Pakistan</a> 1956–1957; founder of <a href="/wiki/Awami_League" title="Awami League">Awami League</a></li>
+<li><a href="/wiki/Begum_Khaleda_Zia" class="mw-redirect" title="Begum Khaleda Zia">Begum Khaleda Zia</a>, (elected) Prime Minister; 1991–1996, 1996–1996, 2001–2006</li></ul>
+<h2><span class="mw-headline" id="Intellectuals">Intellectuals</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_Bangladeshi_people&amp;action=edit&amp;section=16" title="Edit section: Intellectuals">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/A.F.Salahuddin_Ahmed" class="mw-redirect" title="A.F.Salahuddin Ahmed">A.F.Salahuddin Ahmed</a>, historian</li>
+<li><a href="/wiki/Muzaffar_Ahmed_(economist)" title="Muzaffar Ahmed (economist)">Muzaffar Ahmed</a>, economist</li>
+<li><a href="/wiki/Syed_Modasser_Ali" title="Syed Modasser Ali">Syed Modasser Ali</a>, ophthalmologist</li>
+<li><a href="/wiki/Munir_Chowdhury" class="mw-redirect" title="Munir Chowdhury">Munir Chowdhury</a>, educationist</li>
+<li><a href="/wiki/Nikhilesh_Dutta" title="Nikhilesh Dutta">Nikhilesh Dutta</a>, Deputy Attorney General</li>
+<li><a href="/wiki/Kamal_Hossain" title="Kamal Hossain">Kamal Hossain</a>, lawyer and politician, civil rights activist</li>
+<li><a href="/wiki/Nasreen_Pervin_Huq" title="Nasreen Pervin Huq">Nasreen Pervin Huq</a>, women's rights activist</li>
+<li><a href="/wiki/Roquia_Sakhawat_Hussain" class="mw-redirect" title="Roquia Sakhawat Hussain">Roquia Sakhawat Hussain</a>, prolific writer, feminist, social worker</li>
+<li><a href="/wiki/M._A._Muid_Khan" title="M. A. Muid Khan">Muhammed Abdul Muid Khan</a>, nominated as the Best Human Rights Lawyer of England and Wales in 2012</li>
+<li><a href="/wiki/M_S_Khan" class="mw-redirect" title="M S Khan">M S Khan</a>, librarian and pioneer of library science in Bangladesh</li>
+<li><a href="/wiki/Natyaguru" class="mw-redirect" title="Natyaguru">Natyaguru</a> <a href="/wiki/Nurul_Momen" title="Nurul Momen">Nurul Momen</a>, Pioneer cultural emancipator, Playwright, Essayist, Translator, Academician.</li>
+<li><a href="/wiki/Anu_Muhammad" title="Anu Muhammad">Anu Muhammad</a>, economist</li>
+<li><a href="/wiki/Rehman_Sobhan" title="Rehman Sobhan">Rehman Sobhan</a>, economist</li></ul>
+<h2><span class="mw-headline" id="Government_officials_and_diplomats">Government officials and diplomats</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_Bangladeshi_people&amp;action=edit&amp;section=17" title="Edit section: Government officials and diplomats">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Shakil_Ahmed_(Major_General)" class="mw-redirect" title="Shakil Ahmed (Major General)">Shakil Ahmed</a>, Army general</li>
+<li><a href="/wiki/Anwar_Chowdhury" class="mw-redirect" title="Anwar Chowdhury">Anwar Chowdhury</a>, British High Commissioner to Dhaka, first non-White Briton to hold a senior diplomatic post</li>
+<li><a href="/wiki/Akbar_Ali_Khan_(economist)" title="Akbar Ali Khan (economist)">Akbar Ali Khan</a>, Bangladeshi economic historian and educationist who was a civil servant until 2001, Finance Ministry Adviser (Minister) of <a href="/wiki/Caretaker_government_of_Bangladesh" title="Caretaker government of Bangladesh">Caretaker government of Bangladesh</a></li>
+<li><a href="/wiki/A._H._M._Moniruzzaman" title="A. H. M. Moniruzzaman">A. H. M. Moniruzzaman</a>, career diplomat belonging to the Bangladesh Foreign Service, was the head of Bangladesh Mission to the European Commission in Brussels, Belgium, Luxembourg and Switzerland</li>
+<li><a href="/wiki/Ayub_Quadri" title="Ayub Quadri">Ayub Quadri</a>, retired bureaucrat, adviser for the ministries of Education and Cultural Affairs to <a href="/wiki/Caretaker_government_of_Bangladesh" title="Caretaker government of Bangladesh">Caretaker government of Bangladesh</a></li>
+<li><a href="/wiki/Kamal_Uddin_Siddiqui" title="Kamal Uddin Siddiqui">Kamal Uddin Siddiqui</a>, senior lecturer at the <a href="/wiki/Monash_University" title="Monash University">Monash University</a>, a political economist and social scientist and a <a href="/wiki/Bureaucrat" title="Bureaucrat">bureaucrat</a> from Bangladesh</li></ul>
+<h2><span id="Noted_diplomats.2Fheads_of_major_organizations"></span><span class="mw-headline" id="Noted_diplomats/heads_of_major_organizations">Noted diplomats/heads of major organizations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_Bangladeshi_people&amp;action=edit&amp;section=18" title="Edit section: Noted diplomats/heads of major organizations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Abul_Fateh" title="Abul Fateh">Abul Fateh</a>, professional diplomat, first Foreign Secretary 1971–1972</li>
+<li><a href="/wiki/Chandra_Kalindi_Roy_Henriksen" title="Chandra Kalindi Roy Henriksen">Chandra Kalindi Roy Henriksen</a>, Chief Secretary of the <a href="/wiki/United_Nations_Permanent_Forum_on_Indigenous_Issues" title="United Nations Permanent Forum on Indigenous Issues">United Nations Permanent Forum on Indigenous Issues</a></li>
+<li><a href="/wiki/M_Sakhawat_Hossain" title="M Sakhawat Hossain">M Sakhawat Hossain</a>, former <a href="/wiki/Election_Commissioner_of_Bangladesh" title="Election Commissioner of Bangladesh">Election Commissioner of Bangladesh</a> (2007–2012), Brigadier General (retd) <a href="/wiki/Bangladesh_Army" title="Bangladesh Army">Bangladesh Army</a>, writer, author of more than 20 books, columnist, speaker, freelance commentator on national and international TV channels, security and defense analyst</li>
+<li><a href="/wiki/Irene_Khan" title="Irene Khan">Irene Khan</a>, former Secretary General of human rights organization <a href="/wiki/Amnesty_International" title="Amnesty International">Amnesty International</a>; the first woman, the first Asian, and the first Muslim to hold the position; won the <a href="/wiki/Sydney_Peace_Prize" title="Sydney Peace Prize">Sydney Peace Prize</a> 2006</li>
+<li><a href="/wiki/Osman_Ghani_Khan" title="Osman Ghani Khan">Osman Ghani Khan</a>, Former Chairman of the United Nations Board of Auditors (1980–1982), Former <a href="/wiki/Comptroller_and_Auditor_General_of_Bangladesh" class="mw-redirect" title="Comptroller and Auditor General of Bangladesh">Comptroller and Auditor General of Bangladesh</a> (1976–1082), and Former Defense Secretary of Bangladesh.</li></ul>
+<h2><span class="mw-headline" id="Religious_personalities">Religious personalities</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_Bangladeshi_people&amp;action=edit&amp;section=19" title="Edit section: Religious personalities">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Abdul_Halim_Bukhari" title="Abdul Halim Bukhari">Abdul Halim Bukhari</a>, Islamic Scholar and Chancellor of <a href="/wiki/Al_Jamia_Al_Islamia_Patiya" title="Al Jamia Al Islamia Patiya">Al Jamia Al Islamia Patiya</a></li>
+<li><a href="/wiki/A_F_M_Khalid_Hossain" title="A F M Khalid Hossain">A F M Khalid Hossain</a>, Researcher and writer. (born 1959)</li>
+<li><a href="/wiki/Shah_Ahmad_Shafi" title="Shah Ahmad Shafi">Shah Ahmad Shafi</a>, Former Amir of <a href="/wiki/Hefazat-e-Islam_Bangladesh" title="Hefazat-e-Islam Bangladesh">Hefazat-e-Islam Bangladesh</a></li>
+<li><a href="/wiki/Muhibbullah_Babunagari" title="Muhibbullah Babunagari">Muhibbullah Babunagari</a>, Chief advisor of <a href="/wiki/Hefazat-e-Islam_Bangladesh" title="Hefazat-e-Islam Bangladesh">Hefazat-e-Islam Bangladesh</a> (born 1935)</li>
+<li><a href="/wiki/Junaid_Babunagari" title="Junaid Babunagari">Junaid Babunagari</a>, Current Amir of <a href="/wiki/Hefazat-e-Islam_Bangladesh" title="Hefazat-e-Islam Bangladesh">Hefazat-e-Islam Bangladesh</a></li>
+<li><a href="/wiki/Nur_Hossain_Kasemi" title="Nur Hossain Kasemi">Nur Hossain Kasemi</a>, Secretary General of <a href="/wiki/Hefazat-e-Islam_Bangladesh" title="Hefazat-e-Islam Bangladesh">Hefazat-e-Islam Bangladesh</a></li>
+<li><a href="/wiki/Mahmudul_Hasan_(scholar)" title="Mahmudul Hasan (scholar)">Mahmudul Hasan</a>, President of <a href="/wiki/Al-Haiatul_Ulya_Lil-Jamiatil_Qawmia_Bangladesh" title="Al-Haiatul Ulya Lil-Jamiatil Qawmia Bangladesh">Al-Haiatul Ulya Lil-Jamiatil Qawmia Bangladesh</a> and <a href="/wiki/Befaqul_Madarisil_Arabia_Bangladesh" title="Befaqul Madarisil Arabia Bangladesh">Befaqul Madarisil Arabia Bangladesh</a>, Chancellor of <a href="https://bn.wikipedia.org/wiki/%E0%A6%9C%E0%A6%BE%E0%A6%AE%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE_%E0%A6%87%E0%A6%B8%E0%A6%B2%E0%A6%BE%E0%A6%AE%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE_%E0%A6%A6%E0%A6%BE%E0%A6%B0%E0%A7%81%E0%A6%B2_%E0%A6%89%E0%A6%B2%E0%A7%81%E0%A6%AE_%E0%A6%AE%E0%A6%BE%E0%A6%A6%E0%A6%BE%E0%A6%A8%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE" class="extiw" title="bn:জামিয়া ইসলামিয়া দারুল উলুম মাদানিয়া">Jamia Islamia Darul Uloom Madania</a>, Amir of Majlis-e-Dawatul Haq Bangladesh.<sup id="cite_ref-:22_5-0" class="reference"><a href="#cite_note-:22-5">&#91;5&#93;</a></sup></li>
+<li><a href="/wiki/Mamunul_Haque" title="Mamunul Haque">Mamunul Haque</a>, Islamic Scholar and influential speaker.</li>
+<li><a href="/wiki/Mahfuzul_Haque" title="Mahfuzul Haque">Mahfuzul Haque</a>, Islamic Scholar and politician.</li>
+<li><a href="/wiki/Syed_Rezaul_Karim" class="mw-redirect" title="Syed Rezaul Karim">Syed Rezaul Karim</a>, popularly known as Chormonai Pir, Islamic Scholar and Leader of <a href="/wiki/Islami_Andolan_Bangladesh" title="Islami Andolan Bangladesh">Islami Andolan Bangladesh</a></li>
+<li><a href="/wiki/Syed_Fazlul_Karim" class="mw-redirect" title="Syed Fazlul Karim">Syed Fazlul Karim</a>, Islamic Scholar and founder of <a href="/wiki/Islami_Andolan_Bangladesh" title="Islami Andolan Bangladesh">Islami Andolan Bangladesh</a></li>
+<li><a href="/wiki/Muhammad_Asadullah_Al-Ghalib" title="Muhammad Asadullah Al-Ghalib">Muhammad Asadullah Al-Ghalib</a>, <a href="/wiki/Islamic_scholar" class="mw-redirect" title="Islamic scholar">Reformist Islamic scholar</a> of modern era</li>
+<li><a href="/wiki/Khan_Jahan_Ali" title="Khan Jahan Ali">Khan Jahan Ali</a>, considered a Muslim saint, built the great <a href="/wiki/Mosque_city_of_Bagerhat" class="mw-redirect" title="Mosque city of Bagerhat">Bagerhat Shat Gambuj Masjid</a> (60 dome mosque)</li>
+<li><a href="/wiki/Shah_Jalal" title="Shah Jalal">Shah Jalal</a>, <a href="/wiki/Muslim" class="mw-redirect" title="Muslim">Muslim</a> saint of Bengal, particularly in the region of Sylhet, Bangladesh</li>
+<li><a href="/wiki/Shah_Paran" title="Shah Paran">Shah Paran</a>, Muslim Sufi saint; nephew of <a href="/wiki/Shah_Jalal" title="Shah Jalal">Shah Jalal</a></li>
+<li><a href="/wiki/Gaura_Kisora_dasa_Babaji" class="mw-redirect" title="Gaura Kisora dasa Babaji">Gaura Kisora dasa Babaji</a>, Hindu saint</li>
+<li><a href="/wiki/Atisha" class="mw-redirect" title="Atisha">Atiśa Dipamkara Shrijnana</a>,  Buddhist teacher; important figure in the Tibetan Buddhist tradition and in establishment; inventor of <a href="/wiki/Bodhichitta" class="mw-redirect" title="Bodhichitta">bodhichitta</a>, known as "mind training"</li>
+<li><a href="/wiki/Tilopa" title="Tilopa">Tilopa</a>, Buddhist teacher; important figure in the Tibetan Buddhist tradition; founder of the <a href="/wiki/Kagyu" title="Kagyu">Kagyu</a> lineage and progressor of the <a href="/wiki/Mahamudra" title="Mahamudra">Mahamudra</a> method</li></ul>
+<h2><span class="mw-headline" id="Sportspeople">Sportspeople</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_Bangladeshi_people&amp;action=edit&amp;section=20" title="Edit section: Sportspeople">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Cricket">Cricket</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_Bangladeshi_people&amp;action=edit&amp;section=21" title="Edit section: Cricket">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><div role="note" class="hatnote navigation-not-searchable">See also: <a href="/wiki/List_of_Bangladesh_women_ODI_cricketers" title="List of Bangladesh women ODI cricketers">List of Bangladesh women ODI cricketers</a></div>
+<ul><li><a href="/wiki/Mashrafe_Mortaza" title="Mashrafe Mortaza">Mashrafe Mortaza</a>, one of the best pace bowler and most successful captain of Bangladesh</li>
+<li><a href="/wiki/Shakib_Al_Hasan" title="Shakib Al Hasan">Shakib Al Hasan</a>, one of the great all-rounder in this era, he ranked several times number 1 all-rounder in all three format of Cricket</li>
+<li><a href="/wiki/Mohammad_Ashraful" title="Mohammad Ashraful">Mohammad Ashraful</a>, youngest player to hit a ton in Test Cricket</li>
+<li><a href="/wiki/Mahmudullah" title="Mahmudullah">Mahmudullah</a>, top 10 T20I all rounders</li>
+<li><a href="/wiki/Mushfiqur_Rahim" title="Mushfiqur Rahim">Mushfiqur Rahim</a>, wicketpeer batsman best team has produced.</li>
+<li><a href="/wiki/Mustafizur_Rahman" title="Mustafizur Rahman">Mustafizur Rahman</a>, Got man match on test and odi debut</li>
+<li><a href="/wiki/Taijul_Islam" title="Taijul Islam">Taijul Islam</a>, took hat trick on odi debut and has recorded an eight wicket haul</li>
+<li><a href="/wiki/Mehidy_Hasan" title="Mehidy Hasan">Mehidy Hasan</a>, Man Series debut</li>
+<li><a href="/wiki/Nayeem_Hasan" title="Nayeem Hasan">Nayeem Hasan</a>, 5/61 test debut</li>
+<li><a href="/wiki/Soumya_Sarkar" title="Soumya Sarkar">Soumya Sarkar</a>, all rounder</li>
+<li><a href="/wiki/Mominul_Haque" title="Mominul Haque">Mominul Haque</a>, test batsmen</li>
+<li><a href="/wiki/Imrul_Kayes" title="Imrul Kayes">Imrul Kayes</a>, test and ODI batsman</li>
+<li><a href="/wiki/Shafiul_Islam" title="Shafiul Islam">Shafiul Islam</a>, odi and t20 bowler</li>
+<li><a href="/wiki/Mohammad_Saifuddin" title="Mohammad Saifuddin">Mohammad Saifuddin</a>, all rounder</li>
+<li><a href="/wiki/Mosaddek_Hossain" title="Mosaddek Hossain">Mosaddek Hossain</a>, all rounder</li>
+<li><a href="/wiki/Rubel_Hossain" title="Rubel Hossain">Rubel Hossain</a>, fast bowler</li>
+<li><a href="/wiki/Syed_Rasel" title="Syed Rasel">Syed Rasel</a>, fast bowler</li>
+<li><a href="/wiki/Abdur_Razzak_(cricketer)" title="Abdur Razzak (cricketer)">Abdur Razzak</a>, spin bowler</li>
+<li><a href="/wiki/Tamim_Iqbal" title="Tamim Iqbal">Tamim Iqbal</a>, test, ODI and t20 batsman</li></ul>
+<h3><span class="mw-headline" id="Archery">Archery</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_Bangladeshi_people&amp;action=edit&amp;section=22" title="Edit section: Archery">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Emdadul_Haque_Milon" title="Emdadul Haque Milon">Emdadul Haque Milon</a>, archer</li>
+<li><a href="/wiki/Md_Ruman_Shana" class="mw-redirect" title="Md Ruman Shana">Md Ruman Shana</a></li></ul>
+<h3><span class="mw-headline" id="Chess">Chess</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_Bangladeshi_people&amp;action=edit&amp;section=23" title="Edit section: Chess">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Abdullah_Al_Rakib" title="Abdullah Al Rakib">Abdullah Al Rakib</a>, Bangladeshi Grandmaster</li>
+<li><a href="/wiki/Reefat_Bin-Sattar" title="Reefat Bin-Sattar">Reefat Bin-Sattar</a>, Bangladeshi Grandmaster</li>
+<li><a href="/wiki/Rani_Hamid" title="Rani Hamid">Rani Hamid</a>, chess player; was awarded the <a href="/wiki/FIDE" title="FIDE">FIDE</a> <a href="/wiki/Woman_International_Master" class="mw-redirect" title="Woman International Master">Woman International Master</a> (WIM) title in 1985 and won British Women's Championship (1983, 1985, 1989)</li>
+<li><a href="/wiki/Enamul_Hossain" title="Enamul Hossain">Enamul Hossain</a>, Bangladeshi Grandmaster</li>
+<li><a href="/wiki/Niaz_Morshed" class="mw-redirect" title="Niaz Morshed">Niaz Morshed</a>, first Bangladeshi Grandmaster (as well as South Asia)</li>
+<li><a href="/wiki/Ziaur_Rahman_(chess_player)" title="Ziaur Rahman (chess player)">Ziaur Rahman</a>, Bangladeshi Grandmaster</li></ul>
+<h3><span class="mw-headline" id="Football">Football</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_Bangladeshi_people&amp;action=edit&amp;section=24" title="Edit section: Football">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Alfaz_Ahmed" title="Alfaz Ahmed">Alfaz Ahmed</a>, <a href="/wiki/Sylhet#Ethnicity" title="Sylhet">Sylheti</a> footballer</li>
+<li><a href="/wiki/Shahed_Ahmed" title="Shahed Ahmed">Shahed Ahmed</a>, British footballer</li>
+<li><a href="/wiki/Toklis_Ahmed" title="Toklis Ahmed">Toklis Ahmed</a></li>
+<li><a href="/wiki/Shahedul_Alam_Shahed" title="Shahedul Alam Shahed">Shahedul Alam Shahed</a>, midfielder</li>
+<li><a href="/wiki/Shahidul_Alam_Sohel" title="Shahidul Alam Sohel">Shahidul Alam Sohel</a>, goalkeeper</li>
+<li><a href="/wiki/Jahid_Hasan_Ameli" class="mw-redirect" title="Jahid Hasan Ameli">Jahid Hasan Ameli</a></li>
+<li><a href="/wiki/Shahed_Ahmed" title="Shahed Ahmed">Shahed Ahmed</a> British Footballer</li>
+<li><a href="/wiki/Sheikh_Aslam" class="mw-redirect" title="Sheikh Aslam">Sheikh Aslam</a>, footballer; striker during the 1980s and 1990s</li>
+<li><a href="/wiki/Jamal_Bhuyan" title="Jamal Bhuyan">Jamal Bhuyan</a>, Danish footballer of Bangladeshi descent</li>
+<li><a href="/wiki/Hemanta_Vincent_Biswas" title="Hemanta Vincent Biswas">Hemanta Vincent Biswas</a>, first Bangladeshi footballer to get a trial at a top European club; a Bangladeshi Christian</li>
+<li><a href="/wiki/Mithun_Chowdhury_Mithun" class="mw-redirect" title="Mithun Chowdhury Mithun">Mithun Chowdhury</a></li>
+<li><a href="/wiki/Nasiruddin_Chowdhury" title="Nasiruddin Chowdhury">Nasiruddin Chowdhury</a></li>
+<li><a href="/wiki/Hamza_Choudhury" title="Hamza Choudhury">Hamza Choudhury</a>, British Footballer</li>
+<li><a href="/wiki/Kaiser_Hamid" title="Kaiser Hamid">Kaiser Hamid</a>, <a href="/wiki/Sylhet#Ethmicity" title="Sylhet">Sylheti</a>, footballer, son of <a href="/wiki/Rani_Hamid" title="Rani Hamid">Rani Hamid</a> (retired)</li>
+<li><a href="/wiki/Raihan_Hasan" title="Raihan Hasan">Raihan Hasan</a></li>
+<li><a href="/wiki/Aminul_Hoque" class="mw-redirect" title="Aminul Hoque">Aminul Hoque</a>, goalkeeper</li>
+<li><a href="/wiki/Mohammed_Monwar_Hossain" title="Mohammed Monwar Hossain">Mohammed Monwar Hossain</a></li>
+<li><a href="/wiki/Mohamed_Zahid_Hossain" title="Mohamed Zahid Hossain">Mohamed Zahid Hossain</a></li>
+<li><a href="/wiki/Mamunul_Islam" title="Mamunul Islam">Mamunul Islam</a></li>
+<li><a href="/wiki/Mohammed_Ariful_Islam" title="Mohammed Ariful Islam">Mohammed Ariful Islam</a></li>
+<li><a href="/wiki/Sayeed_Hassan_Kanan" title="Sayeed Hassan Kanan">Sayeed Hassan Kanan</a>, goalkeeper</li>
+<li><a href="/wiki/Rezaul_Karim_(footballer)" title="Rezaul Karim (footballer)">Rezaul Karim</a></li>
+<li><a href="/wiki/Tariq_Kazi" title="Tariq Kazi">Tariq Kazi</a>, Finnish Bangladeshi footballer</li>
+<li><a href="/wiki/Mamun_Khan" title="Mamun Khan">Mamun Khan</a></li>
+<li><a href="/wiki/Abdul_Baten_Mojumdar_Komol" title="Abdul Baten Mojumdar Komol">Abdul Baten Mojumdar Komol</a></li>
+<li><a href="/wiki/Ashraf_Mahmud_Linkon" title="Ashraf Mahmud Linkon">Ashraf Mahmud Linkon</a></li>
+<li><a href="/wiki/Russel_Mahmud_Liton" title="Russel Mahmud Liton">Russel Mahmud Liton</a></li>
+<li><a href="/wiki/Atiqur_Rahman_Meshu" title="Atiqur Rahman Meshu">Atiqur Rahman Meshu</a></li>
+<li><a href="/wiki/Mohd_Mamun_Miah" class="mw-redirect" title="Mohd Mamun Miah">Mohd Mamun Miah</a>, <a href="/wiki/Sylhet#Ethnicity" title="Sylhet">Sylheti</a>, footballer</li>
+<li><a href="/wiki/Mohamed_Mintu_Sheikh" title="Mohamed Mintu Sheikh">Sheikh Mohamed Mintu</a></li>
+<li><a href="/wiki/Nasirul_Islam_Nasir" title="Nasirul Islam Nasir">Nasirul Islam Nasir</a></li>
+<li><a href="/wiki/Shakhawat_Hossain_Rony" title="Shakhawat Hossain Rony">Shakhawat Hossain Rony</a></li>
+<li><a href="/wiki/Sabbir" class="mw-redirect" title="Sabbir">Syed Rumman Bin Wali Sabbir</a></li>
+<li><a href="/wiki/Kazi_Salahuddin" title="Kazi Salahuddin">Kazi Salahuddin</a></li>
+<li><a href="/wiki/Saiful_Bari_Titu" title="Saiful Bari Titu">Saiful Bari Titu</a></li>
+<li><a href="/wiki/Anwar_Uddin" title="Anwar Uddin">Anwar Uddin</a>, British footballer</li></ul>
+<h3><span class="mw-headline" id="Golf">Golf</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_Bangladeshi_people&amp;action=edit&amp;section=25" title="Edit section: Golf">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Siddikur_Rahman" title="Siddikur Rahman">Siddikur Rahman</a>, Bangladeshi pro golfer who plays on the <a href="/wiki/Asian_Tour" title="Asian Tour">Asian Tour</a></li></ul>
+<h3><span class="mw-headline" id="Gymnastics">Gymnastics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_Bangladeshi_people&amp;action=edit&amp;section=26" title="Edit section: Gymnastics">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Syque_Caesar" title="Syque Caesar">Syque Caesar</a>, artistic gymnast, member of the Michigan Wolverines</li>
+<li><a href="/wiki/Margarita_Mamun" title="Margarita Mamun">Margarita Mamun</a>, rhythmic gymnast, 2016 Gold medallist and Olympic champion in rhythmic gymnastics of Russian and Bangladeshi descent</li></ul>
+<h3><span class="mw-headline" id="Hockey">Hockey</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_Bangladeshi_people&amp;action=edit&amp;section=27" title="Edit section: Hockey">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Mamunur_Rahman_Chayan" title="Mamunur Rahman Chayan">Mamunur Rahman Chayan</a></li></ul>
+<h3><span class="mw-headline" id="Kabaddi">Kabaddi</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_Bangladeshi_people&amp;action=edit&amp;section=28" title="Edit section: Kabaddi">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Kazi_Yunus_Ahmed" title="Kazi Yunus Ahmed">Kazi Yunus Ahmed</a></li>
+<li><a href="/wiki/Razu_Ahmed" title="Razu Ahmed">Razu Ahmed</a></li>
+<li><a href="/wiki/Hena_Akhter" title="Hena Akhter">Hena Akhter</a></li>
+<li><a href="/wiki/Rupali_Akhter" title="Rupali Akhter">Rupali Akhter</a></li>
+<li><a href="/wiki/Kazi_Shahin_Ara" title="Kazi Shahin Ara">Kazi Shahin Ara</a></li>
+<li><a href="/wiki/Farzana_Akhter_Baby" title="Farzana Akhter Baby">Farzana Akhter Baby</a></li>
+<li><a href="/wiki/Juni_Chakma" title="Juni Chakma">Juni Chakma</a>, of <a href="/wiki/Chakma_people" title="Chakma people">Chakma</a> descent</li>
+<li><a href="/wiki/Mohammed_Mozammal_Haque" class="mw-redirect" title="Mohammed Mozammal Haque">Mohammed Mozammal Haque</a></li>
+<li><a href="/wiki/Kamal_Hossain_(kabaddi)" title="Kamal Hossain (kabaddi)">Kamal Hossain</a></li>
+<li><a href="/wiki/Mosharrof_Hossain" title="Mosharrof Hossain">Mosharrof Hossain</a></li>
+<li><a href="/wiki/Abul_Kalam_(player)" class="mw-redirect" title="Abul Kalam (player)">Abul Kalam</a></li>
+<li><a href="/wiki/Shahnaz_Parvin_Maleka" title="Shahnaz Parvin Maleka">Shahnaz Parvin Maleka</a></li>
+<li><a href="/wiki/Badsha_Miah" title="Badsha Miah">Badsha Miah</a>, of <a href="/wiki/Sylhetis" title="Sylhetis">Sylheti</a> descent</li>
+<li><a href="/wiki/Kochi_Rani_Mondal" title="Kochi Rani Mondal">Kochi Rani Mondal</a></li>
+<li><a href="/wiki/Abu_Salah_Musa" title="Abu Salah Musa">Abu Salah Musa</a></li>
+<li><a href="/wiki/Ismat_Ara_Nishi" title="Ismat Ara Nishi">Ismat Ara Nishi</a></li>
+<li><a href="/wiki/Fatema_Akhter_Poly" title="Fatema Akhter Poly">Fatema Akhter Poly</a></li>
+<li><a href="/wiki/Md_Mizanur_Rahman" title="Md Mizanur Rahman">Md Mizanur Rahman</a></li>
+<li><a href="/wiki/Ziaur_Rahman_(kabaddi)" title="Ziaur Rahman (kabaddi)">Ziaur Rahman</a></li>
+<li><a href="/wiki/Bozlur_Rashid" title="Bozlur Rashid">Bozlur Rashid</a></li>
+<li><a href="/wiki/Sharmin_Sultana_Rima" title="Sharmin Sultana Rima">Sharmin Sultana Rima</a></li>
+<li><a href="/wiki/Md_Abdur_Rouf" title="Md Abdur Rouf">Md Abdur Rouf</a></li>
+<li><a href="/wiki/Dolly_Shefali" title="Dolly Shefali">Dolly Shefali</a></li></ul>
+<h3><span class="mw-headline" id="Martial_arts">Martial arts</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_Bangladeshi_people&amp;action=edit&amp;section=29" title="Edit section: Martial arts">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Riaz_Amin" title="Riaz Amin">Riaz Amin</a>, youngest British WEKAF (World Eskrima/Kali/Arnis Federation) world champion, practises <a href="/wiki/Shotokan_Karate" class="mw-redirect" title="Shotokan Karate">Shotokan Karate</a> and <a href="/wiki/Filipino_Martial_Arts" class="mw-redirect" title="Filipino Martial Arts">Filipino Martial Arts</a></li>
+<li><a href="/wiki/Ruqsana_Begum" title="Ruqsana Begum">Ruqsana Begum</a>, first British woman in kickboxing to be Asian, Bangladeshi and Muslim, she practises Muay Thai</li>
+<li><a href="/wiki/Ali_Jacko" title="Ali Jacko">Ali Jacko</a>, British World Champion Lightweight Kickboxer, Black belt in <a href="/wiki/Jujitsu" class="mw-redirect" title="Jujitsu">Jujitsu</a>, <a href="/wiki/Wushu_(sport)" title="Wushu (sport)">Wushu</a> and Chinese Boxing</li>
+<li><a href="/wiki/Mak_Yuree" title="Mak Yuree">Mak Yuree</a>, founder of Butthan, Vajrapran and Combat Self-Defense, holds four world records</li></ul>
+<h3><span class="mw-headline" id="Mountaineering">Mountaineering</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_Bangladeshi_people&amp;action=edit&amp;section=30" title="Edit section: Mountaineering">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Mohammad_Khaled_Hossain" title="Mohammad Khaled Hossain">Mohammad Khaled Hossain</a></li>
+<li><a href="/wiki/Musa_Ibrahim" title="Musa Ibrahim">Musa Ibrahim</a></li>
+<li><a href="/wiki/Wasfia_Nazreen" title="Wasfia Nazreen">Wasfia Nazreen</a>, also social activist</li></ul>
+<h3><span class="mw-headline" id="Shooter">Shooter</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_Bangladeshi_people&amp;action=edit&amp;section=31" title="Edit section: Shooter">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Imam_Hossain" title="Imam Hossain">Imam Hossain</a></li>
+<li><a href="/wiki/Asif_Hossain_Khan" title="Asif Hossain Khan">Asif Hossain Khan</a>, gold and silver medalist in the Commonwealth Games</li>
+<li><a href="/wiki/Sharmin_Ratna" title="Sharmin Ratna">Sharmin Ratna</a></li></ul>
+<h3><span class="mw-headline" id="Sprinter">Sprinter</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_Bangladeshi_people&amp;action=edit&amp;section=32" title="Edit section: Sprinter">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Mohamed_Abu_Abdullah" title="Mohamed Abu Abdullah">Mohamed Abu Abdullah</a>, personal best 11.07</li>
+<li><a href="/wiki/Masbah_Ahmmed" title="Masbah Ahmmed">Masbah Ahmmed</a>, 100m sprinter</li>
+<li><a href="/wiki/Mohan_Khan" title="Mohan Khan">Mohan Khan</a>, personal best 11.25</li>
+<li><a href="/wiki/Beauty_Nazmun_Nahar" title="Beauty Nazmun Nahar">Beauty Nazmun Nahar</a>, personal best 12.52</li></ul>
+<h3><span class="mw-headline" id="Swimming">Swimming</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_Bangladeshi_people&amp;action=edit&amp;section=33" title="Edit section: Swimming">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Brojen_Das" title="Brojen Das">Brojen Das</a>, swimmer, first Asian to swim across the English Channel and the first person to cross it four times</li></ul>
+<h3><span class="mw-headline" id="Table_tennis">Table tennis</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_Bangladeshi_people&amp;action=edit&amp;section=34" title="Edit section: Table tennis">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Zobera_Rahman_Linu" title="Zobera Rahman Linu">Zobera Rahman Linu</a>, table tennis player; 16 times national champion, Guinness World Record holder</li></ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_Bangladeshi_people&amp;action=edit&amp;section=35" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/List_of_Bangladeshi_Americans" title="List of Bangladeshi Americans">List of Bangladeshi Americans</a></li>
+<li><a href="/wiki/List_of_Bengalis" title="List of Bengalis">List of Bengalis</a></li>
+<li><a href="/wiki/List_of_British_Bangladeshis" title="List of British Bangladeshis">List of British Bangladeshis</a></li>
+<li><a href="/wiki/List_of_Bangladeshi_actors" title="List of Bangladeshi actors">List of Bangladeshi actors</a></li>
+<li><a href="/wiki/List_of_Bangladeshi_architects" title="List of Bangladeshi architects">List of Bangladeshi architects</a></li>
+<li><a href="/wiki/List_of_Bangladeshi_painters" title="List of Bangladeshi painters">List of Bangladeshi painters</a></li>
+<li><a href="/wiki/List_of_Bangladeshi_poets" title="List of Bangladeshi poets">List of Bangladeshi poets</a></li>
+<li><a href="/wiki/List_of_Bangladesh-related_topics" title="List of Bangladesh-related topics">List of Bangladesh-related topics</a></li>
+<li><a href="/wiki/List_of_Bangladesh_Test_cricketers" title="List of Bangladesh Test cricketers">List of Bangladesh Test cricketers</a></li>
+<li><a href="/wiki/List_of_Bangladeshi_writers" title="List of Bangladeshi writers">List of Bangladeshi writers</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_Bangladeshi_people&amp;action=edit&amp;section=36" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r1011085734">.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</style><div class="reflist">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r999302996">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://en.banglapedia.org/index.php?title=Chowdhury,_Hemchandra">"Chowdhury, Hemchandra - Banglapedia"</a>. <i>en.banglapedia.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2020-04-28</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=en.banglapedia.org&amp;rft.atitle=Chowdhury%2C+Hemchandra+-+Banglapedia&amp;rft_id=http%3A%2F%2Fen.banglapedia.org%2Findex.php%3Ftitle%3DChowdhury%2C_Hemchandra&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Bangladeshi+people" class="Z3988"></span></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://irri.org/blogs/fresh-hot-rice-science/origin-of-the-rice-variety-kasalath">"Origin of the rice variety Kasalath"</a>. <i>IRRI.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">May 22,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=IRRI.org&amp;rft.atitle=Origin+of+the+rice+variety+Kasalath&amp;rft_id=http%3A%2F%2Firri.org%2Fblogs%2Ffresh-hot-rice-science%2Forigin-of-the-rice-variety-kasalath&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Bangladeshi+people" class="Z3988"></span></span>
+</li>
+<li id="cite_note-:14-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-:14_3-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFOrnes2016" class="citation journal cs1">Ornes, S. (2016). <a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC5027448">"Topological insulators promise computing advances, insights into matter itself"</a>. <i>Proceedings of the National Academy of Sciences</i>. <b>113</b> (37): 10223–10224. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1073%2Fpnas.1611504113">10.1073/pnas.1611504113</a>. <a href="/wiki/ISSN_(identifier)" class="mw-redirect" title="ISSN (identifier)">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/0027-8424">0027-8424</a>. <a href="/wiki/PMC_(identifier)" class="mw-redirect" title="PMC (identifier)">PMC</a>&#160;<span class="cs1-lock-free" title="Freely accessible"><a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC5027448">5027448</a></span>. <a href="/wiki/PMID_(identifier)" class="mw-redirect" title="PMID (identifier)">PMID</a>&#160;<a rel="nofollow" class="external text" href="//pubmed.ncbi.nlm.nih.gov/27625422">27625422</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Proceedings+of+the+National+Academy+of+Sciences&amp;rft.atitle=Topological+insulators+promise+computing+advances%2C+insights+into+matter+itself&amp;rft.volume=113&amp;rft.issue=37&amp;rft.pages=10223-10224&amp;rft.date=2016&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC5027448%23id-name%3DPMC&amp;rft.issn=0027-8424&amp;rft_id=info%3Apmid%2F27625422&amp;rft_id=info%3Adoi%2F10.1073%2Fpnas.1611504113&amp;rft.aulast=Ornes&amp;rft.aufirst=S.&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC5027448&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Bangladeshi+people" class="Z3988"></span></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20121214053211/http://www.thedailystar.net/suppliments/2010/04/bba_2009/roll.htm">"Role of Honour"</a>. Archived from <a rel="nofollow" class="external text" href="http://www.thedailystar.net/suppliments/2010/04/bba_2009/roll.htm">the original</a> on December 14, 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">January 3,</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Role+of+Honour&amp;rft_id=http%3A%2F%2Fwww.thedailystar.net%2Fsuppliments%2F2010%2F04%2Fbba_2009%2Froll.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Bangladeshi+people" class="Z3988"></span></span>
+</li>
+<li id="cite_note-:22-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-:22_5-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.thedailystar.net/country/news/mahmudul-hasan-new-chairman-qawmi-madrasa-education-board-1971733">"Mahmudul Hasan new chairman of Qawmi Madrasa Education Board"</a>. <i><a href="/wiki/The_Daily_Star_(Bangladesh)" title="The Daily Star (Bangladesh)">The Daily Star</a></i>. 2020-10-03<span class="reference-accessdate">. Retrieved <span class="nowrap">2020-10-04</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Daily+Star&amp;rft.atitle=Mahmudul+Hasan+new+chairman+of+Qawmi+Madrasa+Education+Board&amp;rft.date=2020-10-03&amp;rft_id=https%3A%2F%2Fwww.thedailystar.net%2Fcountry%2Fnews%2Fmahmudul-hasan-new-chairman-qawmi-madrasa-education-board-1971733&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Bangladeshi+people" class="Z3988"></span></span>
+</li>
+</ol></div></div>
+<!--
+NewPP limit report
+Parsed by mw2314
+Cached time: 20210815181006
+Cache expiry: 1814400
+Reduced expiry: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.296 seconds
+Real time usage: 0.418 seconds
+Preprocessor visited node count: 1122/1000000
+Post‐expand include size: 12457/2097152 bytes
+Template argument size: 358/2097152 bytes
+Highest expansion depth: 8/40
+Expensive parser function count: 0/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 18272/5000000 bytes
+Lua time usage: 0.116/10.000 seconds
+Lua memory usage: 3399237/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  275.314      1 -total
+ 48.37%  133.171      1 Template:Reflist
+ 38.92%  107.163      4 Template:Cite_web
+ 31.60%   86.991      1 Template:Short_description
+ 19.81%   54.529      1 Template:Pagetype
+  9.32%   25.649      1 Template:Dynamic_list
+  8.14%   22.421      1 Template:Hatnote
+  6.29%   17.322      3 Template:Main_other
+  5.23%   14.391      3 Template:See_also
+  4.53%   12.469      1 Template:SDcat
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:621567-0!canonical and timestamp 20210815181006 and revision id 1038942536. Serialized with JSON.
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=List_of_Bangladeshi_people&amp;oldid=1038942536">https://en.wikipedia.org/w/index.php?title=List_of_Bangladeshi_people&amp;oldid=1038942536</a>"</div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Lists_of_Bangladeshi_people" title="Category:Lists of Bangladeshi people">Lists of Bangladeshi people</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Short_description_is_different_from_Wikidata" title="Category:Short description is different from Wikidata">Short description is different from Wikidata</a></li><li><a href="/wiki/Category:Dynamic_lists" title="Category:Dynamic lists">Dynamic lists</a></li></ul></div></div>
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<nav id="p-personal" class="mw-portlet mw-portlet-personal vector-user-menu-legacy vector-menu" aria-labelledby="p-personal-label" role="navigation"
+	 >
+	<h3 id="p-personal-label" class="vector-menu-heading"><span>Personal tools</span>
+	</h3>
+	<div class="vector-menu-content">
+
+		<ul class="vector-menu-content-list"><li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=List+of+Bangladeshi+people" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=List+of+Bangladeshi+people" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li></ul>
+
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			<nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation"
+	 >
+	<h3 id="p-namespaces-label" class="vector-menu-heading"><span>Namespaces</span>
+	</h3>
+	<div class="vector-menu-content">
+
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/wiki/List_of_Bangladeshi_people" title="View the content page [c]" accesskey="c">Article</a></li><li id="ca-talk"><a href="/wiki/Talk:List_of_Bangladeshi_people" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t">Talk</a></li></ul>
+
+	</div>
+</nav>
+
+			<nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"
+	 >
+	<input type="checkbox"
+		data-event-name="ui.dropdown-p-variants"
+		class="vector-menu-checkbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label" class="vector-menu-heading"><span>Variants</span>
+	</h3>
+	<div class="vector-menu-content">
+
+		<ul class="vector-menu-content-list"></ul>
+
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			<nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation"
+	 >
+	<h3 id="p-views-label" class="vector-menu-heading"><span>Views</span>
+	</h3>
+	<div class="vector-menu-content">
+
+		<ul class="vector-menu-content-list"><li id="ca-view" class="selected"><a href="/wiki/List_of_Bangladeshi_people">Read</a></li><li id="ca-edit"><a href="/w/index.php?title=List_of_Bangladeshi_people&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li><li id="ca-history"><a href="/w/index.php?title=List_of_Bangladeshi_people&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+
+	</div>
+</nav>
+
+			<nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"
+	 >
+	<input type="checkbox"
+		data-event-name="ui.dropdown-p-cactions"
+		class="vector-menu-checkbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label" class="vector-menu-heading"><span>More</span>
+	</h3>
+	<div class="vector-menu-content">
+
+		<ul class="vector-menu-content-list"></ul>
+
+	</div>
+</nav>
+
+			<div id="p-search" role="search" class="vector-search-box">
+	<div>
+		<h3 >
+			<label for="searchInput">Search</label>
+		</h3>
+		<form action="/w/index.php" id="searchform">
+			<div id="simpleSearch" data-search-loc="header-navigation">
+				<input type="search" name="search" placeholder="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/>
+				<input type="hidden" name="title" value="Special:Search"/>
+				<input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+				<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+			</div>
+		</form>
+	</div>
+</div>
+
+		</div>
+	</div>
+
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a class="mw-wiki-logo" href="/wiki/Main_Page"
+			title="Visit the main page"></a>
+	</div>
+	<nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation"
+	 >
+	<h3 id="p-navigation-label" class="vector-menu-heading"><span>Navigation</span>
+	</h3>
+	<div class="vector-menu-content">
+
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Articles related to current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x">Random article</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works">About Wikipedia</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact us</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation">Donate</a></li></ul>
+
+	</div>
+</nav>
+
+	<nav id="p-interaction" class="mw-portlet mw-portlet-interaction vector-menu vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation"
+	 >
+	<h3 id="p-interaction-label" class="vector-menu-heading"><span>Contribute</span>
+	</h3>
+	<div class="vector-menu-content">
+
+		<ul class="vector-menu-content-list"><li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-introduction"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia">Learn to edit</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r">Recent changes</a></li><li id="n-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia">Upload file</a></li></ul>
+
+	</div>
+</nav>
+<nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"
+	 >
+	<h3 id="p-tb-label" class="vector-menu-heading"><span>Tools</span>
+	</h3>
+	<div class="vector-menu-content">
+
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/List_of_Bangladeshi_people" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/List_of_Bangladeshi_people" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=List_of_Bangladeshi_people&amp;oldid=1038942536" title="Permanent link to this revision of this page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=List_of_Bangladeshi_people&amp;action=info" title="More information about this page">Page information</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=List_of_Bangladeshi_people&amp;id=1038942536&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q11790816" title="Structured data on this page hosted by Wikidata [g]" accesskey="g">Wikidata item</a></li></ul>
+
+	</div>
+</nav>
+<nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"
+	 >
+	<h3 id="p-coll-print_export-label" class="vector-menu-heading"><span>Print/export</span>
+	</h3>
+	<div class="vector-menu-content">
+
+		<ul class="vector-menu-content-list"><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=List_of_Bangladeshi_people&amp;action=show-download-screen" title="Download this page as a PDF file">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=List_of_Bangladeshi_people&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>
+
+	</div>
+</nav>
+
+	<nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"
+	 >
+	<h3 id="p-lang-label" class="vector-menu-heading"><span>Languages</span>
+	</h3>
+	<div class="vector-menu-content">
+
+		<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-bn"><a href="https://bn.wikipedia.org/wiki/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%80_%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%BF%E0%A6%AC%E0%A6%B0%E0%A7%8D%E0%A6%97%E0%A7%87%E0%A6%B0_%E0%A6%A4%E0%A6%BE%E0%A6%B2%E0%A6%BF%E0%A6%95%E0%A6%BE" title="বাংলাদেশী ব্যক্তিবর্গের তালিকা – Bangla" lang="bn" hreflang="bn" class="interlanguage-link-target">বাংলা</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Daftar_tokoh_Bangladesh" title="Daftar tokoh Bangladesh – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q11790816#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+	</div>
+</nav>
+
+</div>
+
+</div>
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+	<li id="footer-info-lastmod"> This page was last edited on 15 August 2021, at 18:09<span class="anonymous-show">&#160;(UTC)</span>.</li>
+	<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+
+	<ul id="footer-places" >
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=List_of_Bangladeshi_people&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+</ul>
+
+</footer>
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.log.warn("This page is using the deprecated ResourceLoader module \"skins.vector.styles.legacy\".\n[1.37] The use of the `content` feature with ResourceLoaderSkinModule is deprecated. Use `content-media` instead. [1.37] The use of the `content-thumbnails` feature with ResourceLoaderSkinModule is deprecated. Use `content-media` instead. More information can be found at [[mw:Manual:ResourceLoaderSkinModule]]. ");mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.296","walltime":"0.418","ppvisitednodes":{"value":1122,"limit":1000000},"postexpandincludesize":{"value":12457,"limit":2097152},"templateargumentsize":{"value":358,"limit":2097152},"expansiondepth":{"value":8,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":18272,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  275.314      1 -total"," 48.37%  133.171      1 Template:Reflist"," 38.92%  107.163      4 Template:Cite_web"," 31.60%   86.991      1 Template:Short_description"," 19.81%   54.529      1 Template:Pagetype","  9.32%   25.649      1 Template:Dynamic_list","  8.14%   22.421      1 Template:Hatnote","  6.29%   17.322      3 Template:Main_other","  5.23%   14.391      3 Template:See_also","  4.53%   12.469      1 Template:SDcat"]},"scribunto":{"limitreport-timeusage":{"value":"0.116","limit":"10.000"},"limitreport-memusage":{"value":3399237,"limit":52428800}},"cachereport":{"origin":"mw2314","timestamp":"20210815181006","ttl":1814400,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"List of Bangladeshi people","url":"https:\/\/en.wikipedia.org\/wiki\/List_of_Bangladeshi_people","sameAs":"http:\/\/www.wikidata.org\/entity\/Q11790816","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q11790816","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-04-27T13:40:26Z","dateModified":"2021-08-15T18:09:38Z","headline":"Wikimedia list article"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":144,"wgHostname":"mw2258"});});</script>
+</body></html>
