@@ -5,6 +5,7 @@ namespace App\Http\Controllers;
 use App\Models\Person;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\DB;
+use Illuminate\Support\Facades\Http;
 use Illuminate\Support\Facades\Schema;
 use Illuminate\Database\Schema\Blueprint;
 
@@ -74,16 +75,13 @@ class WikiController extends Controller
 
     public function getData($title, $collection)
     {
-        // $title = 'Mohammed_Daoud_Khan';
-
-        $url = $this->baseURL . '/w/api.php?action=query&prop=revisions&rvprop=content&rvsection=0&format=xml&titles=' . $title;
-        $file = file_get_contents($url);
+        $file = $this->getPage($title);
         preg_match('/#REDIRECT\s?\[\[(.*)\]\]/', $file, $redirect);
         if ($redirect) {
-            $url = $this->baseURL . '/w/api.php?action=query&prop=revisions&rvprop=content&rvsection=0&format=xml&titles=' . str_replace(' ', '_', $redirect[1]);
-            $file = file_get_contents($url);
+            $title = str_replace(' ', '_', $redirect[1]);
+            $file = $this->getPage($title);
         }
-        preg_match_all('/^\|\W*(\S+)\s*=\s*(.*)/m', $file, $datas);
+        preg_match_all('/^\|\W*([a-zA-Z-_0-9]+)\s*=(.*)/m', $file, $datas);
         preg_match('/pageid="(\w+)/', $file, $pageId);
         echo $pageId[1] . '|getData|\n';
         preg_match('/[sS]hort\s[Dd]escription\|(.*)}}/', $file, $shortDescription);
@@ -111,5 +109,12 @@ class WikiController extends Controller
                 $table->text($column)->nullable();
             });
         }
+    }
+
+    public function getPage($title)
+    {
+        $url = 'https://en.wikipedia.org/w/api.php?action=query&prop=revisions&rvprop=content&rvsection=0&format=xml&titles=' . $title;
+        $response = Http::get($url);
+        return $response->body();
     }
 }
