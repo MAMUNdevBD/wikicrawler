@@ -1,7 +1,9 @@
 <?php
 
-use App\Http\Controllers\WikiController;
 use Illuminate\Support\Facades\Route;
+use Illuminate\Support\Facades\Schema;
+use App\Http\Controllers\WikiController;
+use Illuminate\Database\Schema\Blueprint;
 
 /*
 |--------------------------------------------------------------------------
@@ -21,6 +23,10 @@ Route::get('/', function () {
 Route::post('/', [WikiController::class, 'collect']);
 
 Route::get('/check', [WikiController::class, 'check']);
+Route::post('/check', [WikiController::class, 'checkData']);
+
+Route::get('/a', function () {
+});
 
 
 // Route::get('/check/{month}/{day}', [WikiController::class, 'getInfo']);

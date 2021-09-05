@@ -17,6 +17,7 @@ class CreatePeopleTable extends Migration
             $table->id();
             $table->string('page_id')->unique();
             $table->string('page_name');
+            $table->string('mj_collection');
             $table->timestamps();
         });
     }

@@ -12,8 +12,16 @@
 <body>
     <form action="" method="post" class="flex flex-col mt-40 w-1/2 container mx-auto text-center">
         @csrf
-        <label for="">Wiki URL</label>
-        <input type="text" name="wiki_url" class="w-full">
+        <div class="grid grid-cols-4 gap-3">
+            <div class="col-span-3">
+                <label for="">Wiki URL</label>
+                <input type="url" name="wiki_url" class="w-full">
+            </div>
+            <div class="">
+                <label for="">Stop at</label>
+                <input type="number" name="stop_at" class="w-full">
+            </div>
+        </div>
         @foreach ($errors->all() as $error)
         <div class="text-red-600">{{ $error }}</div>
         @endforeach
