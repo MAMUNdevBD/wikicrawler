@@ -69,7 +69,7 @@ class WikiController extends Controller
     public function getTitles($urls)
     {
         $file = file_get_contents($urls);
-        preg_match_all('/<li><a\s\w+="\/\w+\/(\S+)"/', $file, $data);
+        preg_match_all('/<li><a\s\w+="\/wiki\/(\S+)"/', $file, $data);
         return $data[1];
     }
 
